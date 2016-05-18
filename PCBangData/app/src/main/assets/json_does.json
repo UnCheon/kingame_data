@@ -1,0 +1,87 @@
+[
+  {
+    "nickname": "서울시",
+    "id": 1,
+    "name": "서울"
+  },
+  {
+    "nickname": "경기도",
+    "id": 2,
+    "name": "경기"
+  },
+  {
+    "nickname": "인천광역시",
+    "id": 3,
+    "name": "인천"
+  },
+  {
+    "nickname": "강원도",
+    "id": 4,
+    "name": "강원"
+  },
+  {
+    "nickname": "대전광역시",
+    "id": 5,
+    "name": "대전"
+  },
+  {
+    "nickname": "충청북도",
+    "id": 6,
+    "name": "충북"
+  },
+  {
+    "nickname": "충청남도",
+    "id": 7,
+    "name": "충남"
+  },
+  {
+    "nickname": "부산광역시",
+    "id": 8,
+    "name": "부산"
+  },
+  {
+    "nickname": "울산광역시",
+    "id": 9,
+    "name": "울산"
+  },
+  {
+    "nickname": "세종시",
+    "id": 10,
+    "name": "세종"
+  },
+  {
+    "nickname": "경상남도",
+    "id": 11,
+    "name": "경남"
+  },
+  {
+    "nickname": "대구광역시",
+    "id": 12,
+    "name": "대구"
+  },
+  {
+    "nickname": "경상북도",
+    "id": 13,
+    "name": "경북"
+  },
+  {
+    "nickname": "광주광역시",
+    "id": 14,
+    "name": "광주"
+  },
+  {
+    "nickname": "전라남도",
+    "id": 15,
+    "name": "전남"
+  },
+  {
+    "nickname": "전라북도",
+    "id": 16,
+    "name": "전북"
+  },
+  {
+    "nickname": "제주도",
+    "id": 17,
+    "name": "제주"
+  }
+]

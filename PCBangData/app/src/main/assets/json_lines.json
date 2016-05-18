@@ -1,0 +1,170 @@
+[
+  {
+    
+      "line_num": "1",
+      "name": "1호선",
+      "region":1,
+      "id": 1
+  },
+  {
+    
+      "line_num": "2",
+      "name": "2호선",
+      "region":1,
+      "id": 2
+  },
+  {
+    
+      "line_num": "3",
+      "name": "3호선",
+      "region":1,
+      "id": 3
+  },
+  {
+    
+      "line_num": "4",
+      "name": "4호선",
+      "region":1,
+      "id": 4
+  },
+  {
+    
+      "line_num": "5",
+      "name": "5호선",
+      "region":1,
+      "id": 5
+  },
+  {
+    
+      "line_num": "6",
+      "name": "6호선",
+      "region":1,
+      "id": 6
+  },
+  {
+    
+      "line_num": "7",
+      "name": "7호선",
+      "region":1,
+      "id": 7
+  },
+  {
+    
+      "line_num": "8",
+      "name": "8호선",
+      "region":1,
+      "id": 8
+  },
+  {
+    
+      "line_num": "I",
+      "name": "인천",
+      "region":1,
+      "id": 9
+  },
+  {
+    
+      "line_num": "K",
+      "name": "경의중앙선",
+      "region":1,
+      "id": 10
+  },
+  {
+    
+      "line_num": "B",
+      "name": "분당선",
+      "region":1,
+      "id": 11
+  },
+  {
+    
+      "line_num": "A",
+      "name": "공항선",
+      "region":1,
+      "id": 12
+  },
+  {
+    
+      "line_num": "G",
+      "name": "경춘선",
+      "region":1,
+      "id": 13
+  },
+  {
+    
+      "line_num": "S",
+      "name": "신분당선",
+      "region":1,
+      "id": 14
+  },
+  {
+    
+      "line_num": "SU",
+      "name": "수인선",
+      "region":1,
+      "id": 15
+  },
+  {
+    
+      "line_num": "1",
+      "name": "1호선",
+      "region":2,
+      "id": 16
+  },
+  {
+    
+      "line_num": "2",
+      "name": "2호선",
+      "region":2,
+      "id": 17
+  },
+  {
+    
+      "line_num": "3",
+      "name": "3호선",
+      "region":2,
+      "id": 18
+  },
+  {
+    
+      "line_num": "1",
+      "name": "1호선",
+      "region":3,
+      "id": 19
+  },
+  {
+    
+      "line_num": "2",
+      "name": "2호선",
+      "region":3,
+      "id": 20
+  },
+  {
+    
+      "line_num": "3",
+      "name": "3호선",
+      "region":3,
+      "id": 21
+  },
+  {
+    
+      "line_num": "4",
+      "name": "4호선",
+      "region":3,
+      "id": 22
+  },
+  {
+    
+      "line_num": "1",
+      "name": "1호선",
+      "region":4,
+      "id": 23
+  },
+  {
+    
+      "line_num": "1",
+      "name": "1호선",
+      "region":5,
+      "id": 24
+  } 
+]

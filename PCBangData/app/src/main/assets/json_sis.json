@@ -1,0 +1,1520 @@
+[
+  {
+    "pcbang_count": 85,
+    "doe": 1,
+    "id": 1,
+    "name": "광진구"
+  },
+  {
+    "pcbang_count": 63,
+    "doe": 1,
+    "id": 2,
+    "name": "동대문구"
+  },
+  {
+    "pcbang_count": 61,
+    "doe": 1,
+    "id": 3,
+    "name": "중랑구"
+  },
+  {
+    "pcbang_count": 38,
+    "doe": 1,
+    "id": 4,
+    "name": "용산구"
+  },
+  {
+    "pcbang_count": 45,
+    "doe": 1,
+    "id": 5,
+    "name": "성동구"
+  },
+  {
+    "pcbang_count": 56,
+    "doe": 1,
+    "id": 6,
+    "name": "강북구"
+  },
+  {
+    "pcbang_count": 49,
+    "doe": 1,
+    "id": 7,
+    "name": "도봉구"
+  },
+  {
+    "pcbang_count": 81,
+    "doe": 1,
+    "id": 8,
+    "name": "노원구"
+  },
+  {
+    "pcbang_count": 69,
+    "doe": 1,
+    "id": 9,
+    "name": "은평구"
+  },
+  {
+    "pcbang_count": 46,
+    "doe": 1,
+    "id": 10,
+    "name": "서대문구"
+  },
+  {
+    "pcbang_count": 62,
+    "doe": 1,
+    "id": 11,
+    "name": "마포구"
+  },
+  {
+    "pcbang_count": 64,
+    "doe": 1,
+    "id": 12,
+    "name": "양천구"
+  },
+  {
+    "pcbang_count": 80,
+    "doe": 1,
+    "id": 13,
+    "name": "강서구"
+  },
+  {
+    "pcbang_count": 75,
+    "doe": 1,
+    "id": 14,
+    "name": "구로구"
+  },
+  {
+    "pcbang_count": 39,
+    "doe": 1,
+    "id": 15,
+    "name": "금천구"
+  },
+  {
+    "pcbang_count": 66,
+    "doe": 1,
+    "id": 16,
+    "name": "영등포구"
+  },
+  {
+    "pcbang_count": 90,
+    "doe": 1,
+    "id": 17,
+    "name": "동작구"
+  },
+  {
+    "pcbang_count": 114,
+    "doe": 1,
+    "id": 18,
+    "name": "관악구"
+  },
+  {
+    "pcbang_count": 65,
+    "doe": 1,
+    "id": 19,
+    "name": "서초구"
+  },
+  {
+    "pcbang_count": 106,
+    "doe": 1,
+    "id": 20,
+    "name": "강남구"
+  },
+  {
+    "pcbang_count": 98,
+    "doe": 1,
+    "id": 21,
+    "name": "송파구"
+  },
+  {
+    "pcbang_count": 79,
+    "doe": 1,
+    "id": 22,
+    "name": "강동구"
+  },
+  {
+    "pcbang_count": 38,
+    "doe": 1,
+    "id": 23,
+    "name": "종로구"
+  },
+  {
+    "pcbang_count": 29,
+    "doe": 1,
+    "id": 24,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 74,
+    "doe": 1,
+    "id": 25,
+    "name": "성북구"
+  },
+  {
+    "pcbang_count": 58,
+    "doe": 2,
+    "id": 26,
+    "name": "파주시"
+  },
+  {
+    "pcbang_count": 49,
+    "doe": 2,
+    "id": 27,
+    "name": "수원시 권선구"
+  },
+  {
+    "pcbang_count": 50,
+    "doe": 2,
+    "id": 28,
+    "name": "수원시 팔달구"
+  },
+  {
+    "pcbang_count": 52,
+    "doe": 2,
+    "id": 29,
+    "name": "수원시 영통구"
+  },
+  {
+    "pcbang_count": 50,
+    "doe": 2,
+    "id": 30,
+    "name": "성남시 수정구"
+  },
+  {
+    "pcbang_count": 48,
+    "doe": 2,
+    "id": 31,
+    "name": "성남시 중원구"
+  },
+  {
+    "pcbang_count": 72,
+    "doe": 2,
+    "id": 32,
+    "name": "화성시"
+  },
+  {
+    "pcbang_count": 52,
+    "doe": 2,
+    "id": 33,
+    "name": "성남시 분당구"
+  },
+  {
+    "pcbang_count": 47,
+    "doe": 2,
+    "id": 34,
+    "name": "안양시 만안구"
+  },
+  {
+    "pcbang_count": 54,
+    "doe": 2,
+    "id": 35,
+    "name": "안양시 동안구"
+  },
+  {
+    "pcbang_count": 83,
+    "doe": 2,
+    "id": 36,
+    "name": "부천시 원미구"
+  },
+  {
+    "pcbang_count": 32,
+    "doe": 2,
+    "id": 37,
+    "name": "부천시 소사구"
+  },
+  {
+    "pcbang_count": 28,
+    "doe": 2,
+    "id": 38,
+    "name": "부천시 오정구"
+  },
+  {
+    "pcbang_count": 45,
+    "doe": 2,
+    "id": 39,
+    "name": "광명시"
+  },
+  {
+    "pcbang_count": 95,
+    "doe": 2,
+    "id": 40,
+    "name": "평택시"
+  },
+  {
+    "pcbang_count": 35,
+    "doe": 2,
+    "id": 41,
+    "name": "이천시"
+  },
+  {
+    "pcbang_count": 23,
+    "doe": 2,
+    "id": 42,
+    "name": "동두천시"
+  },
+  {
+    "pcbang_count": 91,
+    "doe": 2,
+    "id": 43,
+    "name": "안산시 상록구"
+  },
+  {
+    "pcbang_count": 87,
+    "doe": 2,
+    "id": 44,
+    "name": "안산시 단원구"
+  },
+  {
+    "pcbang_count": 35,
+    "doe": 2,
+    "id": 45,
+    "name": "안성시"
+  },
+  {
+    "pcbang_count": 71,
+    "doe": 2,
+    "id": 46,
+    "name": "고양시 덕양구"
+  },
+  {
+    "pcbang_count": 51,
+    "doe": 2,
+    "id": 47,
+    "name": "고양시 일산동구"
+  },
+  {
+    "pcbang_count": 42,
+    "doe": 2,
+    "id": 48,
+    "name": "고양시 일산서구"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 2,
+    "id": 49,
+    "name": "과천시"
+  },
+  {
+    "pcbang_count": 30,
+    "doe": 2,
+    "id": 50,
+    "name": "구리시"
+  },
+  {
+    "pcbang_count": 74,
+    "doe": 2,
+    "id": 51,
+    "name": "남양주시"
+  },
+  {
+    "pcbang_count": 52,
+    "doe": 2,
+    "id": 52,
+    "name": "오산시"
+  },
+  {
+    "pcbang_count": 100,
+    "doe": 2,
+    "id": 53,
+    "name": "시흥시"
+  },
+  {
+    "pcbang_count": 42,
+    "doe": 2,
+    "id": 54,
+    "name": "군포시"
+  },
+  {
+    "pcbang_count": 22,
+    "doe": 2,
+    "id": 55,
+    "name": "의왕시"
+  },
+  {
+    "pcbang_count": 19,
+    "doe": 2,
+    "id": 56,
+    "name": "하남시"
+  },
+  {
+    "pcbang_count": 40,
+    "doe": 2,
+    "id": 57,
+    "name": "김포시"
+  },
+  {
+    "pcbang_count": 48,
+    "doe": 2,
+    "id": 58,
+    "name": "용인시 처인구"
+  },
+  {
+    "pcbang_count": 48,
+    "doe": 2,
+    "id": 59,
+    "name": "용인시 기흥구"
+  },
+  {
+    "pcbang_count": 36,
+    "doe": 2,
+    "id": 60,
+    "name": "용인시 수지구"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 2,
+    "id": 61,
+    "name": "연천군"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 2,
+    "id": 62,
+    "name": "가평군"
+  },
+  {
+    "pcbang_count": 13,
+    "doe": 2,
+    "id": 63,
+    "name": "양평군"
+  },
+  {
+    "pcbang_count": 49,
+    "doe": 2,
+    "id": 64,
+    "name": "광주시"
+  },
+  {
+    "pcbang_count": 26,
+    "doe": 2,
+    "id": 65,
+    "name": "포천시"
+  },
+  {
+    "pcbang_count": 21,
+    "doe": 2,
+    "id": 66,
+    "name": "양주시"
+  },
+  {
+    "pcbang_count": 53,
+    "doe": 2,
+    "id": 67,
+    "name": "수원시 장안구"
+  },
+  {
+    "pcbang_count": 81,
+    "doe": 2,
+    "id": 68,
+    "name": "의정부시"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 2,
+    "id": 69,
+    "name": "여주시"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 3,
+    "id": 70,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 85,
+    "doe": 3,
+    "id": 71,
+    "name": "남구"
+  },
+  {
+    "pcbang_count": 55,
+    "doe": 3,
+    "id": 72,
+    "name": "연수구"
+  },
+  {
+    "pcbang_count": 86,
+    "doe": 3,
+    "id": 73,
+    "name": "남동구"
+  },
+  {
+    "pcbang_count": 55,
+    "doe": 3,
+    "id": 74,
+    "name": "계양구"
+  },
+  {
+    "pcbang_count": 70,
+    "doe": 3,
+    "id": 75,
+    "name": "서구"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 3,
+    "id": 76,
+    "name": "강화군"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 3,
+    "id": 77,
+    "name": "옹진군"
+  },
+  {
+    "pcbang_count": 19,
+    "doe": 3,
+    "id": 78,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 97,
+    "doe": 3,
+    "id": 79,
+    "name": "부평구"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 4,
+    "id": 80,
+    "name": "횡성군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 4,
+    "id": 81,
+    "name": "영월군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 4,
+    "id": 82,
+    "name": "평창군"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 4,
+    "id": 83,
+    "name": "정선군"
+  },
+  {
+    "pcbang_count": 15,
+    "doe": 4,
+    "id": 84,
+    "name": "철원군"
+  },
+  {
+    "pcbang_count": 21,
+    "doe": 4,
+    "id": 85,
+    "name": "화천군"
+  },
+  {
+    "pcbang_count": 9,
+    "doe": 4,
+    "id": 86,
+    "name": "양구군"
+  },
+  {
+    "pcbang_count": 15,
+    "doe": 4,
+    "id": 87,
+    "name": "인제군"
+  },
+  {
+    "pcbang_count": 86,
+    "doe": 4,
+    "id": 88,
+    "name": "원주시"
+  },
+  {
+    "pcbang_count": 6,
+    "doe": 4,
+    "id": 89,
+    "name": "고성군"
+  },
+  {
+    "pcbang_count": 70,
+    "doe": 4,
+    "id": 90,
+    "name": "강릉시"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 4,
+    "id": 91,
+    "name": "태백시"
+  },
+  {
+    "pcbang_count": 20,
+    "doe": 4,
+    "id": 92,
+    "name": "속초시"
+  },
+  {
+    "pcbang_count": 17,
+    "doe": 4,
+    "id": 93,
+    "name": "삼척시"
+  },
+  {
+    "pcbang_count": 15,
+    "doe": 4,
+    "id": 94,
+    "name": "홍천군"
+  },
+  {
+    "pcbang_count": 69,
+    "doe": 4,
+    "id": 95,
+    "name": "춘천시"
+  },
+  {
+    "pcbang_count": 1,
+    "doe": 4,
+    "id": 96,
+    "name": "양양군"
+  },
+  {
+    "pcbang_count": 23,
+    "doe": 4,
+    "id": 97,
+    "name": "동해시"
+  },
+  {
+    "pcbang_count": 67,
+    "doe": 5,
+    "id": 98,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 51,
+    "doe": 5,
+    "id": 99,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 118,
+    "doe": 5,
+    "id": 100,
+    "name": "서구"
+  },
+  {
+    "pcbang_count": 62,
+    "doe": 5,
+    "id": 101,
+    "name": "유성구"
+  },
+  {
+    "pcbang_count": 42,
+    "doe": 5,
+    "id": 102,
+    "name": "대덕구"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 6,
+    "id": 103,
+    "name": "괴산군"
+  },
+  {
+    "pcbang_count": 26,
+    "doe": 6,
+    "id": 104,
+    "name": "제천시"
+  },
+  {
+    "pcbang_count": 17,
+    "doe": 6,
+    "id": 105,
+    "name": "음성군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 6,
+    "id": 106,
+    "name": "단양군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 6,
+    "id": 107,
+    "name": "옥천군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 6,
+    "id": 108,
+    "name": "영동군"
+  },
+  {
+    "pcbang_count": 31,
+    "doe": 6,
+    "id": 109,
+    "name": "청주시 상당구"
+  },
+  {
+    "pcbang_count": 59,
+    "doe": 6,
+    "id": 110,
+    "name": "청주시 흥덕구"
+  },
+  {
+    "pcbang_count": 47,
+    "doe": 6,
+    "id": 111,
+    "name": "충주시"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 6,
+    "id": 112,
+    "name": "증평군"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 6,
+    "id": 113,
+    "name": "진천군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 6,
+    "id": 114,
+    "name": "보은군"
+  },
+  {
+    "pcbang_count": 20,
+    "doe": 6,
+    "id": 115,
+    "name": "청주시 청원구"
+  },
+  {
+    "pcbang_count": 22,
+    "doe": 6,
+    "id": 116,
+    "name": "청주시 서원구"
+  },
+  {
+    "pcbang_count": 21,
+    "doe": 7,
+    "id": 117,
+    "name": "공주시"
+  },
+  {
+    "pcbang_count": 83,
+    "doe": 7,
+    "id": 118,
+    "name": "천안시 서북구"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 7,
+    "id": 119,
+    "name": "청양군"
+  },
+  {
+    "pcbang_count": 16,
+    "doe": 7,
+    "id": 120,
+    "name": "홍성군"
+  },
+  {
+    "pcbang_count": 27,
+    "doe": 7,
+    "id": 121,
+    "name": "논산시"
+  },
+  {
+    "pcbang_count": 12,
+    "doe": 7,
+    "id": 122,
+    "name": "예산군"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 7,
+    "id": 123,
+    "name": "계룡시"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 7,
+    "id": 124,
+    "name": "태안군"
+  },
+  {
+    "pcbang_count": 9,
+    "doe": 7,
+    "id": 125,
+    "name": "금산군"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 7,
+    "id": 126,
+    "name": "부여군"
+  },
+  {
+    "pcbang_count": 19,
+    "doe": 7,
+    "id": 127,
+    "name": "보령시"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 7,
+    "id": 128,
+    "name": "서천군"
+  },
+  {
+    "pcbang_count": 65,
+    "doe": 7,
+    "id": 129,
+    "name": "아산시"
+  },
+  {
+    "pcbang_count": 63,
+    "doe": 7,
+    "id": 130,
+    "name": "천안시 동남구"
+  },
+  {
+    "pcbang_count": 34,
+    "doe": 7,
+    "id": 131,
+    "name": "서산시"
+  },
+  {
+    "pcbang_count": 12,
+    "doe": 7,
+    "id": 132,
+    "name": "당진시"
+  },
+  {
+    "pcbang_count": 18,
+    "doe": 8,
+    "id": 133,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 26,
+    "doe": 8,
+    "id": 134,
+    "name": "영도구"
+  },
+  {
+    "pcbang_count": 96,
+    "doe": 8,
+    "id": 135,
+    "name": "부산진구"
+  },
+  {
+    "pcbang_count": 61,
+    "doe": 8,
+    "id": 136,
+    "name": "동래구"
+  },
+  {
+    "pcbang_count": 22,
+    "doe": 8,
+    "id": 137,
+    "name": "서구"
+  },
+  {
+    "pcbang_count": 70,
+    "doe": 8,
+    "id": 138,
+    "name": "남구"
+  },
+  {
+    "pcbang_count": 59,
+    "doe": 8,
+    "id": 139,
+    "name": "북구"
+  },
+  {
+    "pcbang_count": 66,
+    "doe": 8,
+    "id": 140,
+    "name": "해운대구"
+  },
+  {
+    "pcbang_count": 67,
+    "doe": 8,
+    "id": 141,
+    "name": "금정구"
+  },
+  {
+    "pcbang_count": 6,
+    "doe": 8,
+    "id": 142,
+    "name": "강서구"
+  },
+  {
+    "pcbang_count": 40,
+    "doe": 8,
+    "id": 143,
+    "name": "연제구"
+  },
+  {
+    "pcbang_count": 36,
+    "doe": 8,
+    "id": 144,
+    "name": "수영구"
+  },
+  {
+    "pcbang_count": 49,
+    "doe": 8,
+    "id": 145,
+    "name": "사상구"
+  },
+  {
+    "pcbang_count": 20,
+    "doe": 8,
+    "id": 146,
+    "name": "기장군"
+  },
+  {
+    "pcbang_count": 18,
+    "doe": 8,
+    "id": 147,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 70,
+    "doe": 8,
+    "id": 148,
+    "name": "사하구"
+  },
+  {
+    "pcbang_count": 56,
+    "doe": 9,
+    "id": 149,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 54,
+    "doe": 9,
+    "id": 150,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 43,
+    "doe": 9,
+    "id": 151,
+    "name": "울주군"
+  },
+  {
+    "pcbang_count": 100,
+    "doe": 9,
+    "id": 152,
+    "name": "남구"
+  },
+  {
+    "pcbang_count": 27,
+    "doe": 9,
+    "id": 153,
+    "name": "북구"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 10,
+    "id": 154,
+    "name": "세종"
+  },
+  {
+    "pcbang_count": 9,
+    "doe": 11,
+    "id": 155,
+    "name": "함안군"
+  },
+  {
+    "pcbang_count": 82,
+    "doe": 11,
+    "id": 156,
+    "name": "진주시"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 11,
+    "id": 157,
+    "name": "창녕군"
+  },
+  {
+    "pcbang_count": 26,
+    "doe": 11,
+    "id": 158,
+    "name": "통영시"
+  },
+  {
+    "pcbang_count": 21,
+    "doe": 11,
+    "id": 159,
+    "name": "사천시"
+  },
+  {
+    "pcbang_count": 9,
+    "doe": 11,
+    "id": 160,
+    "name": "고성군"
+  },
+  {
+    "pcbang_count": 86,
+    "doe": 11,
+    "id": 161,
+    "name": "김해시"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 11,
+    "id": 162,
+    "name": "산청군"
+  },
+  {
+    "pcbang_count": 15,
+    "doe": 11,
+    "id": 163,
+    "name": "밀양시"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 11,
+    "id": 164,
+    "name": "남해군"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 11,
+    "id": 165,
+    "name": "하동군"
+  },
+  {
+    "pcbang_count": 71,
+    "doe": 11,
+    "id": 166,
+    "name": "거제시"
+  },
+  {
+    "pcbang_count": 205,
+    "doe": 11,
+    "id": 167,
+    "name": "창원시"
+  },
+  {
+    "pcbang_count": 55,
+    "doe": 11,
+    "id": 168,
+    "name": "양산시"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 11,
+    "id": 169,
+    "name": "의령군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 11,
+    "id": 170,
+    "name": "합천군"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 11,
+    "id": 171,
+    "name": "창원시 진해구"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 11,
+    "id": 172,
+    "name": "창원시 마산합포구"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 11,
+    "id": 173,
+    "name": "창원시 마산회원구"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 11,
+    "id": 174,
+    "name": "창원시 성산구"
+  },
+  {
+    "pcbang_count": 0,
+    "doe": 11,
+    "id": 175,
+    "name": "창원시 의창구"
+  },
+  {
+    "pcbang_count": 6,
+    "doe": 11,
+    "id": 176,
+    "name": "함양군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 11,
+    "id": 177,
+    "name": "거창군"
+  },
+  {
+    "pcbang_count": 22,
+    "doe": 12,
+    "id": 178,
+    "name": "중구"
+  },
+  {
+    "pcbang_count": 77,
+    "doe": 12,
+    "id": 179,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 48,
+    "doe": 12,
+    "id": 180,
+    "name": "서구"
+  },
+  {
+    "pcbang_count": 43,
+    "doe": 12,
+    "id": 181,
+    "name": "남구"
+  },
+  {
+    "pcbang_count": 130,
+    "doe": 12,
+    "id": 182,
+    "name": "달서구"
+  },
+  {
+    "pcbang_count": 32,
+    "doe": 12,
+    "id": 183,
+    "name": "달성군"
+  },
+  {
+    "pcbang_count": 98,
+    "doe": 12,
+    "id": 184,
+    "name": "북구"
+  },
+  {
+    "pcbang_count": 89,
+    "doe": 12,
+    "id": 185,
+    "name": "수성구"
+  },
+  {
+    "pcbang_count": 28,
+    "doe": 13,
+    "id": 186,
+    "name": "안동시"
+  },
+  {
+    "pcbang_count": 122,
+    "doe": 13,
+    "id": 187,
+    "name": "구미시"
+  },
+  {
+    "pcbang_count": 61,
+    "doe": 13,
+    "id": 188,
+    "name": "포항시 남구"
+  },
+  {
+    "pcbang_count": 15,
+    "doe": 13,
+    "id": 189,
+    "name": "영천시"
+  },
+  {
+    "pcbang_count": 52,
+    "doe": 13,
+    "id": 190,
+    "name": "포항시 북구"
+  },
+  {
+    "pcbang_count": 22,
+    "doe": 13,
+    "id": 191,
+    "name": "영주시"
+  },
+  {
+    "pcbang_count": 50,
+    "doe": 13,
+    "id": 192,
+    "name": "경주시"
+  },
+  {
+    "pcbang_count": 20,
+    "doe": 13,
+    "id": 193,
+    "name": "김천시"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 13,
+    "id": 194,
+    "name": "청도군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 13,
+    "id": 195,
+    "name": "고령군"
+  },
+  {
+    "pcbang_count": 6,
+    "doe": 13,
+    "id": 196,
+    "name": "성주군"
+  },
+  {
+    "pcbang_count": 84,
+    "doe": 13,
+    "id": 197,
+    "name": "경산시"
+  },
+  {
+    "pcbang_count": 28,
+    "doe": 13,
+    "id": 198,
+    "name": "칠곡군"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 13,
+    "id": 199,
+    "name": "군위군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 13,
+    "id": 200,
+    "name": "예천군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 13,
+    "id": 201,
+    "name": "의성군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 13,
+    "id": 202,
+    "name": "봉화군"
+  },
+  {
+    "pcbang_count": 9,
+    "doe": 13,
+    "id": 203,
+    "name": "울진군"
+  },
+  {
+    "pcbang_count": 17,
+    "doe": 13,
+    "id": 204,
+    "name": "상주시"
+  },
+  {
+    "pcbang_count": 1,
+    "doe": 13,
+    "id": 205,
+    "name": "울릉군"
+  },
+  {
+    "pcbang_count": 6,
+    "doe": 13,
+    "id": 206,
+    "name": "영덕군"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 13,
+    "id": 207,
+    "name": "문경시"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 13,
+    "id": 208,
+    "name": "청송군"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 13,
+    "id": 209,
+    "name": "영양군"
+  },
+  {
+    "pcbang_count": 43,
+    "doe": 14,
+    "id": 210,
+    "name": "동구"
+  },
+  {
+    "pcbang_count": 89,
+    "doe": 14,
+    "id": 211,
+    "name": "서구"
+  },
+  {
+    "pcbang_count": 55,
+    "doe": 14,
+    "id": 212,
+    "name": "남구"
+  },
+  {
+    "pcbang_count": 134,
+    "doe": 14,
+    "id": 213,
+    "name": "북구"
+  },
+  {
+    "pcbang_count": 94,
+    "doe": 14,
+    "id": 214,
+    "name": "광산구"
+  },
+  {
+    "pcbang_count": 69,
+    "doe": 15,
+    "id": 215,
+    "name": "목포시"
+  },
+  {
+    "pcbang_count": 69,
+    "doe": 15,
+    "id": 216,
+    "name": "여수시"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 15,
+    "id": 217,
+    "name": "장성군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 15,
+    "id": 218,
+    "name": "장흥군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 15,
+    "id": 219,
+    "name": "완도군"
+  },
+  {
+    "pcbang_count": 30,
+    "doe": 15,
+    "id": 220,
+    "name": "광양시"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 15,
+    "id": 221,
+    "name": "강진군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 15,
+    "id": 222,
+    "name": "담양군"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 15,
+    "id": 223,
+    "name": "진도군"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 15,
+    "id": 224,
+    "name": "곡성군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 15,
+    "id": 225,
+    "name": "해남군"
+  },
+  {
+    "pcbang_count": 1,
+    "doe": 15,
+    "id": 226,
+    "name": "신안군"
+  },
+  {
+    "pcbang_count": 14,
+    "doe": 15,
+    "id": 227,
+    "name": "영암군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 15,
+    "id": 228,
+    "name": "구례군"
+  },
+  {
+    "pcbang_count": 10,
+    "doe": 15,
+    "id": 229,
+    "name": "고흥군"
+  },
+  {
+    "pcbang_count": 16,
+    "doe": 15,
+    "id": 230,
+    "name": "무안군"
+  },
+  {
+    "pcbang_count": 74,
+    "doe": 15,
+    "id": 231,
+    "name": "순천시"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 15,
+    "id": 232,
+    "name": "보성군"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 15,
+    "id": 233,
+    "name": "함평군"
+  },
+  {
+    "pcbang_count": 8,
+    "doe": 15,
+    "id": 234,
+    "name": "화순군"
+  },
+  {
+    "pcbang_count": 11,
+    "doe": 15,
+    "id": 235,
+    "name": "영광군"
+  },
+  {
+    "pcbang_count": 17,
+    "doe": 15,
+    "id": 236,
+    "name": "나주시"
+  },
+  {
+    "pcbang_count": 20,
+    "doe": 16,
+    "id": 237,
+    "name": "정읍시"
+  },
+  {
+    "pcbang_count": 4,
+    "doe": 16,
+    "id": 238,
+    "name": "순창군"
+  },
+  {
+    "pcbang_count": 14,
+    "doe": 16,
+    "id": 239,
+    "name": "남원시"
+  },
+  {
+    "pcbang_count": 5,
+    "doe": 16,
+    "id": 240,
+    "name": "고창군"
+  },
+  {
+    "pcbang_count": 12,
+    "doe": 16,
+    "id": 241,
+    "name": "김제시"
+  },
+  {
+    "pcbang_count": 14,
+    "doe": 16,
+    "id": 242,
+    "name": "완주군"
+  },
+  {
+    "pcbang_count": 7,
+    "doe": 16,
+    "id": 243,
+    "name": "부안군"
+  },
+  {
+    "pcbang_count": 95,
+    "doe": 16,
+    "id": 244,
+    "name": "전주시 완산구"
+  },
+  {
+    "pcbang_count": 95,
+    "doe": 16,
+    "id": 245,
+    "name": "전주시 덕진구"
+  },
+  {
+    "pcbang_count": 1,
+    "doe": 16,
+    "id": 246,
+    "name": "진안군"
+  },
+  {
+    "pcbang_count": 77,
+    "doe": 16,
+    "id": 247,
+    "name": "익산시"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 16,
+    "id": 248,
+    "name": "장수군"
+  },
+  {
+    "pcbang_count": 3,
+    "doe": 16,
+    "id": 249,
+    "name": "임실군"
+  },
+  {
+    "pcbang_count": 76,
+    "doe": 16,
+    "id": 250,
+    "name": "군산시"
+  },
+  {
+    "pcbang_count": 2,
+    "doe": 16,
+    "id": 251,
+    "name": "무주군"
+  },
+  {
+    "pcbang_count": 124,
+    "doe": 17,
+    "id": 252,
+    "name": "제주시"
+  },
+  {
+    "pcbang_count": 32,
+    "doe": 17,
+    "id": 253,
+    "name": "서귀포시"
+  }
+]

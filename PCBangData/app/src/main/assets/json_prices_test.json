@@ -1,0 +1,66 @@
+[
+  {
+    "depth_1_title": "기본요금",
+    "contents":
+    [
+    {
+      "depth_2_title":"학생",
+      "price":1000,
+
+      },
+      {
+      "depth_2_title":"성인",
+      "price":1100,        
+      }
+      ],
+  },
+
+  {
+    "depth_1_title": "정액요금",
+    "contents":
+    [
+    {
+      "depth_2_title":"학생 3시간",
+      "price":2000,
+
+      },
+      {
+      "depth_2_title":"학생 5시간",
+      "price":4000,        
+      },
+      {
+      "depth_2_title":"학생 10시간",
+      "price":7000,        
+      }
+      ],
+  },
+
+
+{
+    "depth_1_title": "프린터",
+    "contents":
+    [
+    {
+      "depth_2_title":"칼라 한장",
+      "price":200,
+
+      },
+      {
+      "depth_2_title":"흑백 한장",
+      "price":100,        
+      },
+      {
+      "depth_2_title":"칼라 스캐너",
+      "price":200,        
+      },
+      {
+      "depth_2_title":"흑백 스캐너",
+      "price":100,        
+      }
+      ],
+  }
+  ]
+
+
+
+

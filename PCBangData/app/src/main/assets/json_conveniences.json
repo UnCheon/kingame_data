@@ -1,0 +1,72 @@
+[
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 18,
+    "name": "흡연부스"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 19,
+    "name": "프린터"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 20,
+    "name": "주차"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 21,
+    "name": "커플석"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 22,
+    "name": "FPS 전용석"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 23,
+    "name": "투모니터"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 24,
+    "name": "기계식키보드"
+  },
+  {
+    "category": 2,
+    "image": null,
+    "order": 1,
+    "id": 25,
+    "name": "여성시설"
+  },
+  {
+    "category": 3,
+    "image": null,
+    "order": 1,
+    "id": 26,
+    "name": "후불"
+  },
+  {
+    "category": 3,
+    "image": null,
+    "order": 1,
+    "id": 27,
+    "name": "카드결제"
+  }
+]

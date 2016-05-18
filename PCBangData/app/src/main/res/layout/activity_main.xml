@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ypunval.pcbangdata.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_does"
+            android:text="make Does" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_sis"
+            android:text="make Sis" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_dongs"
+            android:text="make Dongs" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_regions"
+            android:text="make regions" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_lines"
+            android:text="make lines" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_subways"
+            android:text="make subways" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_categories"
+            android:text="make categories" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_conveniences"
+            android:text="make conveniences" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_pcbangs"
+            android:text="make PcBangs" />
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="make_update"
+            android:text="make update" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n- subway, si pcBancCount update -"/>
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="update_pcbang_count"
+            android:text="make update pcbang count" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n- exprot db -"/>
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:onClick="send_email"
+            android:text="send email" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
