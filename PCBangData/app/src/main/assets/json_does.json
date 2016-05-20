@@ -1,87 +1,138 @@
 [
   {
-    "nickname": "서울시",
-    "id": 1,
-    "name": "서울"
+    "model": "pc.doe",
+    "pk": 1,
+    "fields": {
+      "name": "서울",
+      "nickname": null
+    }
   },
   {
-    "nickname": "경기도",
-    "id": 2,
-    "name": "경기"
+    "model": "pc.doe",
+    "pk": 2,
+    "fields": {
+      "name": "경기",
+      "nickname": null
+    }
   },
   {
-    "nickname": "인천광역시",
-    "id": 3,
-    "name": "인천"
+    "model": "pc.doe",
+    "pk": 3,
+    "fields": {
+      "name": "인천",
+      "nickname": null
+    }
   },
   {
-    "nickname": "강원도",
-    "id": 4,
-    "name": "강원"
+    "model": "pc.doe",
+    "pk": 4,
+    "fields": {
+      "name": "강원",
+      "nickname": null
+    }
   },
   {
-    "nickname": "대전광역시",
-    "id": 5,
-    "name": "대전"
+    "model": "pc.doe",
+    "pk": 5,
+    "fields": {
+      "name": "대전",
+      "nickname": null
+    }
   },
   {
-    "nickname": "충청북도",
-    "id": 6,
-    "name": "충북"
+    "model": "pc.doe",
+    "pk": 6,
+    "fields": {
+      "name": "충북",
+      "nickname": null
+    }
   },
   {
-    "nickname": "충청남도",
-    "id": 7,
-    "name": "충남"
+    "model": "pc.doe",
+    "pk": 7,
+    "fields": {
+      "name": "충남",
+      "nickname": null
+    }
   },
   {
-    "nickname": "부산광역시",
-    "id": 8,
-    "name": "부산"
+    "model": "pc.doe",
+    "pk": 8,
+    "fields": {
+      "name": "부산",
+      "nickname": null
+    }
   },
   {
-    "nickname": "울산광역시",
-    "id": 9,
-    "name": "울산"
+    "model": "pc.doe",
+    "pk": 9,
+    "fields": {
+      "name": "울산",
+      "nickname": null
+    }
   },
   {
-    "nickname": "세종시",
-    "id": 10,
-    "name": "세종"
+    "model": "pc.doe",
+    "pk": 10,
+    "fields": {
+      "name": "세종",
+      "nickname": null
+    }
   },
   {
-    "nickname": "경상남도",
-    "id": 11,
-    "name": "경남"
+    "model": "pc.doe",
+    "pk": 11,
+    "fields": {
+      "name": "경남",
+      "nickname": null
+    }
   },
   {
-    "nickname": "대구광역시",
-    "id": 12,
-    "name": "대구"
+    "model": "pc.doe",
+    "pk": 12,
+    "fields": {
+      "name": "대구",
+      "nickname": null
+    }
   },
   {
-    "nickname": "경상북도",
-    "id": 13,
-    "name": "경북"
+    "model": "pc.doe",
+    "pk": 13,
+    "fields": {
+      "name": "경북",
+      "nickname": null
+    }
   },
   {
-    "nickname": "광주광역시",
-    "id": 14,
-    "name": "광주"
+    "model": "pc.doe",
+    "pk": 14,
+    "fields": {
+      "name": "광주",
+      "nickname": null
+    }
   },
   {
-    "nickname": "전라남도",
-    "id": 15,
-    "name": "전남"
+    "model": "pc.doe",
+    "pk": 15,
+    "fields": {
+      "name": "전남",
+      "nickname": null
+    }
   },
   {
-    "nickname": "전라북도",
-    "id": 16,
-    "name": "전북"
+    "model": "pc.doe",
+    "pk": 16,
+    "fields": {
+      "name": "전북",
+      "nickname": null
+    }
   },
   {
-    "nickname": "제주도",
-    "id": 17,
-    "name": "제주"
+    "model": "pc.doe",
+    "pk": 17,
+    "fields": {
+      "name": "제주",
+      "nickname": null
+    }
   }
 ]

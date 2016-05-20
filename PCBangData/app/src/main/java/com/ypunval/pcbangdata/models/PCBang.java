@@ -48,6 +48,8 @@ public class PCBang extends RealmObject {
 
     @Ignore
     float distance;
+    @Ignore
+    boolean selected;
 
 
     public int getId() {
@@ -320,5 +322,13 @@ public class PCBang extends RealmObject {
 
     public void setDistance(float distance) {
         this.distance = distance;
+    }
+
+    public boolean isSelected() {
+        return selected;
+    }
+
+    public void setSelected(boolean selected) {
+        this.selected = selected;
     }
 }

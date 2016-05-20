@@ -1,72 +1,112 @@
 [
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 18,
-    "name": "흡연부스"
+    "model": "pc.convenience",
+    "pk": 18,
+    "fields": {
+      "name": "흡연부스",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 19,
-    "name": "프린터"
+    "model": "pc.convenience",
+    "pk": 19,
+    "fields": {
+      "name": "프린터",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 20,
-    "name": "주차"
+    "model": "pc.convenience",
+    "pk": 20,
+    "fields": {
+      "name": "주차",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 21,
-    "name": "커플석"
+    "model": "pc.convenience",
+    "pk": 21,
+    "fields": {
+      "name": "커플석",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 22,
-    "name": "FPS 전용석"
+    "model": "pc.convenience",
+    "pk": 22,
+    "fields": {
+      "name": "FPS 전용석",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 23,
-    "name": "투모니터"
+    "model": "pc.convenience",
+    "pk": 23,
+    "fields": {
+      "name": "투모니터",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 24,
-    "name": "기계식키보드"
+    "model": "pc.convenience",
+    "pk": 24,
+    "fields": {
+      "name": "기계식키보드",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 2,
-    "image": null,
-    "order": 1,
-    "id": 25,
-    "name": "여성시설"
+    "model": "pc.convenience",
+    "pk": 25,
+    "fields": {
+      "name": "여성시설",
+      "category": 2,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 3,
-    "image": null,
-    "order": 1,
-    "id": 26,
-    "name": "후불"
+    "model": "pc.convenience",
+    "pk": 26,
+    "fields": {
+      "name": "후불",
+      "category": 3,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   },
   {
-    "category": 3,
-    "image": null,
-    "order": 1,
-    "id": 27,
-    "name": "카드결제"
+    "model": "pc.convenience",
+    "pk": 27,
+    "fields": {
+      "name": "카드결제",
+      "category": 3,
+      "created": null,
+      "image": null,
+      "order": 1
+    }
   }
 ]

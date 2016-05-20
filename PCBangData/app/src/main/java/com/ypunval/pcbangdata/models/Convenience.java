@@ -1,6 +1,7 @@
 package com.ypunval.pcbangdata.models;
 
 import io.realm.RealmObject;
+import io.realm.annotations.Ignore;
 import io.realm.annotations.PrimaryKey;
 
 
@@ -12,6 +13,9 @@ public class Convenience extends RealmObject {
     private String created;
     private int order;
     private String image;
+
+    @Ignore
+    private boolean selected = false;
 
     public int getId() {
         return id;
@@ -59,5 +63,13 @@ public class Convenience extends RealmObject {
 
     public void setImage(String image) {
         this.image = image;
+    }
+
+    public boolean isSelected() {
+        return selected;
+    }
+
+    public void setSelected(boolean selected) {
+        this.selected = selected;
     }
 }

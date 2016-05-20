@@ -1,14 +1,26 @@
 [
   {
-    "id": 1,
-    "name": "서비스"
+    "model": "pc.conveniencecategory",
+    "pk": 1,
+    "fields": {
+      "name": "서비스",
+      "created": null
+    }
   },
   {
-    "id": 2,
-    "name": "시설"
+    "model": "pc.conveniencecategory",
+    "pk": 2,
+    "fields": {
+      "name": "시설",
+      "created": null
+    }
   },
   {
-    "id": 3,
-    "name": "결제"
+    "model": "pc.conveniencecategory",
+    "pk": 3,
+    "fields": {
+      "name": "결제",
+      "created": null
+    }
   }
 ]

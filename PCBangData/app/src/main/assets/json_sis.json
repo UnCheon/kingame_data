@@ -1,1520 +1,2785 @@
 [
   {
-    "pcbang_count": 85,
-    "doe": 1,
-    "id": 1,
-    "name": "광진구"
-  },
-  {
-    "pcbang_count": 63,
-    "doe": 1,
-    "id": 2,
-    "name": "동대문구"
-  },
-  {
-    "pcbang_count": 61,
-    "doe": 1,
-    "id": 3,
-    "name": "중랑구"
-  },
-  {
-    "pcbang_count": 38,
-    "doe": 1,
-    "id": 4,
-    "name": "용산구"
-  },
-  {
-    "pcbang_count": 45,
-    "doe": 1,
-    "id": 5,
-    "name": "성동구"
-  },
-  {
-    "pcbang_count": 56,
-    "doe": 1,
-    "id": 6,
-    "name": "강북구"
-  },
-  {
-    "pcbang_count": 49,
-    "doe": 1,
-    "id": 7,
-    "name": "도봉구"
-  },
-  {
-    "pcbang_count": 81,
-    "doe": 1,
-    "id": 8,
-    "name": "노원구"
-  },
-  {
-    "pcbang_count": 69,
-    "doe": 1,
-    "id": 9,
-    "name": "은평구"
-  },
-  {
-    "pcbang_count": 46,
-    "doe": 1,
-    "id": 10,
-    "name": "서대문구"
-  },
-  {
-    "pcbang_count": 62,
-    "doe": 1,
-    "id": 11,
-    "name": "마포구"
-  },
-  {
-    "pcbang_count": 64,
-    "doe": 1,
-    "id": 12,
-    "name": "양천구"
-  },
-  {
-    "pcbang_count": 80,
-    "doe": 1,
-    "id": 13,
-    "name": "강서구"
-  },
-  {
-    "pcbang_count": 75,
-    "doe": 1,
-    "id": 14,
-    "name": "구로구"
-  },
-  {
-    "pcbang_count": 39,
-    "doe": 1,
-    "id": 15,
-    "name": "금천구"
-  },
-  {
-    "pcbang_count": 66,
-    "doe": 1,
-    "id": 16,
-    "name": "영등포구"
-  },
-  {
-    "pcbang_count": 90,
-    "doe": 1,
-    "id": 17,
-    "name": "동작구"
-  },
-  {
-    "pcbang_count": 114,
-    "doe": 1,
-    "id": 18,
-    "name": "관악구"
-  },
-  {
-    "pcbang_count": 65,
-    "doe": 1,
-    "id": 19,
-    "name": "서초구"
-  },
-  {
-    "pcbang_count": 106,
-    "doe": 1,
-    "id": 20,
-    "name": "강남구"
-  },
-  {
-    "pcbang_count": 98,
-    "doe": 1,
-    "id": 21,
-    "name": "송파구"
-  },
-  {
-    "pcbang_count": 79,
-    "doe": 1,
-    "id": 22,
-    "name": "강동구"
-  },
-  {
-    "pcbang_count": 38,
-    "doe": 1,
-    "id": 23,
-    "name": "종로구"
-  },
-  {
-    "pcbang_count": 29,
-    "doe": 1,
-    "id": 24,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 74,
-    "doe": 1,
-    "id": 25,
-    "name": "성북구"
-  },
-  {
-    "pcbang_count": 58,
-    "doe": 2,
-    "id": 26,
-    "name": "파주시"
-  },
-  {
-    "pcbang_count": 49,
-    "doe": 2,
-    "id": 27,
-    "name": "수원시 권선구"
-  },
-  {
-    "pcbang_count": 50,
-    "doe": 2,
-    "id": 28,
-    "name": "수원시 팔달구"
-  },
-  {
-    "pcbang_count": 52,
-    "doe": 2,
-    "id": 29,
-    "name": "수원시 영통구"
-  },
-  {
-    "pcbang_count": 50,
-    "doe": 2,
-    "id": 30,
-    "name": "성남시 수정구"
-  },
-  {
-    "pcbang_count": 48,
-    "doe": 2,
-    "id": 31,
-    "name": "성남시 중원구"
-  },
-  {
-    "pcbang_count": 72,
-    "doe": 2,
-    "id": 32,
-    "name": "화성시"
-  },
-  {
-    "pcbang_count": 52,
-    "doe": 2,
-    "id": 33,
-    "name": "성남시 분당구"
-  },
-  {
-    "pcbang_count": 47,
-    "doe": 2,
-    "id": 34,
-    "name": "안양시 만안구"
-  },
-  {
-    "pcbang_count": 54,
-    "doe": 2,
-    "id": 35,
-    "name": "안양시 동안구"
-  },
-  {
-    "pcbang_count": 83,
-    "doe": 2,
-    "id": 36,
-    "name": "부천시 원미구"
-  },
-  {
-    "pcbang_count": 32,
-    "doe": 2,
-    "id": 37,
-    "name": "부천시 소사구"
-  },
-  {
-    "pcbang_count": 28,
-    "doe": 2,
-    "id": 38,
-    "name": "부천시 오정구"
-  },
-  {
-    "pcbang_count": 45,
-    "doe": 2,
-    "id": 39,
-    "name": "광명시"
-  },
-  {
-    "pcbang_count": 95,
-    "doe": 2,
-    "id": 40,
-    "name": "평택시"
-  },
-  {
-    "pcbang_count": 35,
-    "doe": 2,
-    "id": 41,
-    "name": "이천시"
-  },
-  {
-    "pcbang_count": 23,
-    "doe": 2,
-    "id": 42,
-    "name": "동두천시"
-  },
-  {
-    "pcbang_count": 91,
-    "doe": 2,
-    "id": 43,
-    "name": "안산시 상록구"
-  },
-  {
-    "pcbang_count": 87,
-    "doe": 2,
-    "id": 44,
-    "name": "안산시 단원구"
-  },
-  {
-    "pcbang_count": 35,
-    "doe": 2,
-    "id": 45,
-    "name": "안성시"
-  },
-  {
-    "pcbang_count": 71,
-    "doe": 2,
-    "id": 46,
-    "name": "고양시 덕양구"
-  },
-  {
-    "pcbang_count": 51,
-    "doe": 2,
-    "id": 47,
-    "name": "고양시 일산동구"
-  },
-  {
-    "pcbang_count": 42,
-    "doe": 2,
-    "id": 48,
-    "name": "고양시 일산서구"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 2,
-    "id": 49,
-    "name": "과천시"
-  },
-  {
-    "pcbang_count": 30,
-    "doe": 2,
-    "id": 50,
-    "name": "구리시"
-  },
-  {
-    "pcbang_count": 74,
-    "doe": 2,
-    "id": 51,
-    "name": "남양주시"
-  },
-  {
-    "pcbang_count": 52,
-    "doe": 2,
-    "id": 52,
-    "name": "오산시"
-  },
-  {
-    "pcbang_count": 100,
-    "doe": 2,
-    "id": 53,
-    "name": "시흥시"
-  },
-  {
-    "pcbang_count": 42,
-    "doe": 2,
-    "id": 54,
-    "name": "군포시"
-  },
-  {
-    "pcbang_count": 22,
-    "doe": 2,
-    "id": 55,
-    "name": "의왕시"
-  },
-  {
-    "pcbang_count": 19,
-    "doe": 2,
-    "id": 56,
-    "name": "하남시"
-  },
-  {
-    "pcbang_count": 40,
-    "doe": 2,
-    "id": 57,
-    "name": "김포시"
-  },
-  {
-    "pcbang_count": 48,
-    "doe": 2,
-    "id": 58,
-    "name": "용인시 처인구"
-  },
-  {
-    "pcbang_count": 48,
-    "doe": 2,
-    "id": 59,
-    "name": "용인시 기흥구"
-  },
-  {
-    "pcbang_count": 36,
-    "doe": 2,
-    "id": 60,
-    "name": "용인시 수지구"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 2,
-    "id": 61,
-    "name": "연천군"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 2,
-    "id": 62,
-    "name": "가평군"
-  },
-  {
-    "pcbang_count": 13,
-    "doe": 2,
-    "id": 63,
-    "name": "양평군"
-  },
-  {
-    "pcbang_count": 49,
-    "doe": 2,
-    "id": 64,
-    "name": "광주시"
-  },
-  {
-    "pcbang_count": 26,
-    "doe": 2,
-    "id": 65,
-    "name": "포천시"
-  },
-  {
-    "pcbang_count": 21,
-    "doe": 2,
-    "id": 66,
-    "name": "양주시"
-  },
-  {
-    "pcbang_count": 53,
-    "doe": 2,
-    "id": 67,
-    "name": "수원시 장안구"
-  },
-  {
-    "pcbang_count": 81,
-    "doe": 2,
-    "id": 68,
-    "name": "의정부시"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 2,
-    "id": 69,
-    "name": "여주시"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 3,
-    "id": 70,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 85,
-    "doe": 3,
-    "id": 71,
-    "name": "남구"
-  },
-  {
-    "pcbang_count": 55,
-    "doe": 3,
-    "id": 72,
-    "name": "연수구"
-  },
-  {
-    "pcbang_count": 86,
-    "doe": 3,
-    "id": 73,
-    "name": "남동구"
-  },
-  {
-    "pcbang_count": 55,
-    "doe": 3,
-    "id": 74,
-    "name": "계양구"
-  },
-  {
-    "pcbang_count": 70,
-    "doe": 3,
-    "id": 75,
-    "name": "서구"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 3,
-    "id": 76,
-    "name": "강화군"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 3,
-    "id": 77,
-    "name": "옹진군"
-  },
-  {
-    "pcbang_count": 19,
-    "doe": 3,
-    "id": 78,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 97,
-    "doe": 3,
-    "id": 79,
-    "name": "부평구"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 4,
-    "id": 80,
-    "name": "횡성군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 4,
-    "id": 81,
-    "name": "영월군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 4,
-    "id": 82,
-    "name": "평창군"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 4,
-    "id": 83,
-    "name": "정선군"
-  },
-  {
-    "pcbang_count": 15,
-    "doe": 4,
-    "id": 84,
-    "name": "철원군"
-  },
-  {
-    "pcbang_count": 21,
-    "doe": 4,
-    "id": 85,
-    "name": "화천군"
-  },
-  {
-    "pcbang_count": 9,
-    "doe": 4,
-    "id": 86,
-    "name": "양구군"
-  },
-  {
-    "pcbang_count": 15,
-    "doe": 4,
-    "id": 87,
-    "name": "인제군"
-  },
-  {
-    "pcbang_count": 86,
-    "doe": 4,
-    "id": 88,
-    "name": "원주시"
-  },
-  {
-    "pcbang_count": 6,
-    "doe": 4,
-    "id": 89,
-    "name": "고성군"
-  },
-  {
-    "pcbang_count": 70,
-    "doe": 4,
-    "id": 90,
-    "name": "강릉시"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 4,
-    "id": 91,
-    "name": "태백시"
-  },
-  {
-    "pcbang_count": 20,
-    "doe": 4,
-    "id": 92,
-    "name": "속초시"
-  },
-  {
-    "pcbang_count": 17,
-    "doe": 4,
-    "id": 93,
-    "name": "삼척시"
-  },
-  {
-    "pcbang_count": 15,
-    "doe": 4,
-    "id": 94,
-    "name": "홍천군"
-  },
-  {
-    "pcbang_count": 69,
-    "doe": 4,
-    "id": 95,
-    "name": "춘천시"
-  },
-  {
-    "pcbang_count": 1,
-    "doe": 4,
-    "id": 96,
-    "name": "양양군"
-  },
-  {
-    "pcbang_count": 23,
-    "doe": 4,
-    "id": 97,
-    "name": "동해시"
-  },
-  {
-    "pcbang_count": 67,
-    "doe": 5,
-    "id": 98,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 51,
-    "doe": 5,
-    "id": 99,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 118,
-    "doe": 5,
-    "id": 100,
-    "name": "서구"
-  },
-  {
-    "pcbang_count": 62,
-    "doe": 5,
-    "id": 101,
-    "name": "유성구"
-  },
-  {
-    "pcbang_count": 42,
-    "doe": 5,
-    "id": 102,
-    "name": "대덕구"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 6,
-    "id": 103,
-    "name": "괴산군"
-  },
-  {
-    "pcbang_count": 26,
-    "doe": 6,
-    "id": 104,
-    "name": "제천시"
-  },
-  {
-    "pcbang_count": 17,
-    "doe": 6,
-    "id": 105,
-    "name": "음성군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 6,
-    "id": 106,
-    "name": "단양군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 6,
-    "id": 107,
-    "name": "옥천군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 6,
-    "id": 108,
-    "name": "영동군"
-  },
-  {
-    "pcbang_count": 31,
-    "doe": 6,
-    "id": 109,
-    "name": "청주시 상당구"
-  },
-  {
-    "pcbang_count": 59,
-    "doe": 6,
-    "id": 110,
-    "name": "청주시 흥덕구"
-  },
-  {
-    "pcbang_count": 47,
-    "doe": 6,
-    "id": 111,
-    "name": "충주시"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 6,
-    "id": 112,
-    "name": "증평군"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 6,
-    "id": 113,
-    "name": "진천군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 6,
-    "id": 114,
-    "name": "보은군"
-  },
-  {
-    "pcbang_count": 20,
-    "doe": 6,
-    "id": 115,
-    "name": "청주시 청원구"
-  },
-  {
-    "pcbang_count": 22,
-    "doe": 6,
-    "id": 116,
-    "name": "청주시 서원구"
-  },
-  {
-    "pcbang_count": 21,
-    "doe": 7,
-    "id": 117,
-    "name": "공주시"
-  },
-  {
-    "pcbang_count": 83,
-    "doe": 7,
-    "id": 118,
-    "name": "천안시 서북구"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 7,
-    "id": 119,
-    "name": "청양군"
-  },
-  {
-    "pcbang_count": 16,
-    "doe": 7,
-    "id": 120,
-    "name": "홍성군"
-  },
-  {
-    "pcbang_count": 27,
-    "doe": 7,
-    "id": 121,
-    "name": "논산시"
-  },
-  {
-    "pcbang_count": 12,
-    "doe": 7,
-    "id": 122,
-    "name": "예산군"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 7,
-    "id": 123,
-    "name": "계룡시"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 7,
-    "id": 124,
-    "name": "태안군"
-  },
-  {
-    "pcbang_count": 9,
-    "doe": 7,
-    "id": 125,
-    "name": "금산군"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 7,
-    "id": 126,
-    "name": "부여군"
-  },
-  {
-    "pcbang_count": 19,
-    "doe": 7,
-    "id": 127,
-    "name": "보령시"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 7,
-    "id": 128,
-    "name": "서천군"
-  },
-  {
-    "pcbang_count": 65,
-    "doe": 7,
-    "id": 129,
-    "name": "아산시"
-  },
-  {
-    "pcbang_count": 63,
-    "doe": 7,
-    "id": 130,
-    "name": "천안시 동남구"
-  },
-  {
-    "pcbang_count": 34,
-    "doe": 7,
-    "id": 131,
-    "name": "서산시"
-  },
-  {
-    "pcbang_count": 12,
-    "doe": 7,
-    "id": 132,
-    "name": "당진시"
-  },
-  {
-    "pcbang_count": 18,
-    "doe": 8,
-    "id": 133,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 26,
-    "doe": 8,
-    "id": 134,
-    "name": "영도구"
-  },
-  {
-    "pcbang_count": 96,
-    "doe": 8,
-    "id": 135,
-    "name": "부산진구"
-  },
-  {
-    "pcbang_count": 61,
-    "doe": 8,
-    "id": 136,
-    "name": "동래구"
-  },
-  {
-    "pcbang_count": 22,
-    "doe": 8,
-    "id": 137,
-    "name": "서구"
-  },
-  {
-    "pcbang_count": 70,
-    "doe": 8,
-    "id": 138,
-    "name": "남구"
-  },
-  {
-    "pcbang_count": 59,
-    "doe": 8,
-    "id": 139,
-    "name": "북구"
-  },
-  {
-    "pcbang_count": 66,
-    "doe": 8,
-    "id": 140,
-    "name": "해운대구"
-  },
-  {
-    "pcbang_count": 67,
-    "doe": 8,
-    "id": 141,
-    "name": "금정구"
-  },
-  {
-    "pcbang_count": 6,
-    "doe": 8,
-    "id": 142,
-    "name": "강서구"
-  },
-  {
-    "pcbang_count": 40,
-    "doe": 8,
-    "id": 143,
-    "name": "연제구"
-  },
-  {
-    "pcbang_count": 36,
-    "doe": 8,
-    "id": 144,
-    "name": "수영구"
-  },
-  {
-    "pcbang_count": 49,
-    "doe": 8,
-    "id": 145,
-    "name": "사상구"
-  },
-  {
-    "pcbang_count": 20,
-    "doe": 8,
-    "id": 146,
-    "name": "기장군"
-  },
-  {
-    "pcbang_count": 18,
-    "doe": 8,
-    "id": 147,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 70,
-    "doe": 8,
-    "id": 148,
-    "name": "사하구"
-  },
-  {
-    "pcbang_count": 56,
-    "doe": 9,
-    "id": 149,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 54,
-    "doe": 9,
-    "id": 150,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 43,
-    "doe": 9,
-    "id": 151,
-    "name": "울주군"
-  },
-  {
-    "pcbang_count": 100,
-    "doe": 9,
-    "id": 152,
-    "name": "남구"
-  },
-  {
-    "pcbang_count": 27,
-    "doe": 9,
-    "id": 153,
-    "name": "북구"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 10,
-    "id": 154,
-    "name": "세종"
-  },
-  {
-    "pcbang_count": 9,
-    "doe": 11,
-    "id": 155,
-    "name": "함안군"
-  },
-  {
-    "pcbang_count": 82,
-    "doe": 11,
-    "id": 156,
-    "name": "진주시"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 11,
-    "id": 157,
-    "name": "창녕군"
-  },
-  {
-    "pcbang_count": 26,
-    "doe": 11,
-    "id": 158,
-    "name": "통영시"
-  },
-  {
-    "pcbang_count": 21,
-    "doe": 11,
-    "id": 159,
-    "name": "사천시"
-  },
-  {
-    "pcbang_count": 9,
-    "doe": 11,
-    "id": 160,
-    "name": "고성군"
-  },
-  {
-    "pcbang_count": 86,
-    "doe": 11,
-    "id": 161,
-    "name": "김해시"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 11,
-    "id": 162,
-    "name": "산청군"
-  },
-  {
-    "pcbang_count": 15,
-    "doe": 11,
-    "id": 163,
-    "name": "밀양시"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 11,
-    "id": 164,
-    "name": "남해군"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 11,
-    "id": 165,
-    "name": "하동군"
-  },
-  {
-    "pcbang_count": 71,
-    "doe": 11,
-    "id": 166,
-    "name": "거제시"
-  },
-  {
-    "pcbang_count": 205,
-    "doe": 11,
-    "id": 167,
-    "name": "창원시"
-  },
-  {
-    "pcbang_count": 55,
-    "doe": 11,
-    "id": 168,
-    "name": "양산시"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 11,
-    "id": 169,
-    "name": "의령군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 11,
-    "id": 170,
-    "name": "합천군"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 11,
-    "id": 171,
-    "name": "창원시 진해구"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 11,
-    "id": 172,
-    "name": "창원시 마산합포구"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 11,
-    "id": 173,
-    "name": "창원시 마산회원구"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 11,
-    "id": 174,
-    "name": "창원시 성산구"
-  },
-  {
-    "pcbang_count": 0,
-    "doe": 11,
-    "id": 175,
-    "name": "창원시 의창구"
-  },
-  {
-    "pcbang_count": 6,
-    "doe": 11,
-    "id": 176,
-    "name": "함양군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 11,
-    "id": 177,
-    "name": "거창군"
-  },
-  {
-    "pcbang_count": 22,
-    "doe": 12,
-    "id": 178,
-    "name": "중구"
-  },
-  {
-    "pcbang_count": 77,
-    "doe": 12,
-    "id": 179,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 48,
-    "doe": 12,
-    "id": 180,
-    "name": "서구"
-  },
-  {
-    "pcbang_count": 43,
-    "doe": 12,
-    "id": 181,
-    "name": "남구"
-  },
-  {
-    "pcbang_count": 130,
-    "doe": 12,
-    "id": 182,
-    "name": "달서구"
-  },
-  {
-    "pcbang_count": 32,
-    "doe": 12,
-    "id": 183,
-    "name": "달성군"
-  },
-  {
-    "pcbang_count": 98,
-    "doe": 12,
-    "id": 184,
-    "name": "북구"
-  },
-  {
-    "pcbang_count": 89,
-    "doe": 12,
-    "id": 185,
-    "name": "수성구"
-  },
-  {
-    "pcbang_count": 28,
-    "doe": 13,
-    "id": 186,
-    "name": "안동시"
-  },
-  {
-    "pcbang_count": 122,
-    "doe": 13,
-    "id": 187,
-    "name": "구미시"
-  },
-  {
-    "pcbang_count": 61,
-    "doe": 13,
-    "id": 188,
-    "name": "포항시 남구"
-  },
-  {
-    "pcbang_count": 15,
-    "doe": 13,
-    "id": 189,
-    "name": "영천시"
-  },
-  {
-    "pcbang_count": 52,
-    "doe": 13,
-    "id": 190,
-    "name": "포항시 북구"
-  },
-  {
-    "pcbang_count": 22,
-    "doe": 13,
-    "id": 191,
-    "name": "영주시"
-  },
-  {
-    "pcbang_count": 50,
-    "doe": 13,
-    "id": 192,
-    "name": "경주시"
-  },
-  {
-    "pcbang_count": 20,
-    "doe": 13,
-    "id": 193,
-    "name": "김천시"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 13,
-    "id": 194,
-    "name": "청도군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 13,
-    "id": 195,
-    "name": "고령군"
-  },
-  {
-    "pcbang_count": 6,
-    "doe": 13,
-    "id": 196,
-    "name": "성주군"
-  },
-  {
-    "pcbang_count": 84,
-    "doe": 13,
-    "id": 197,
-    "name": "경산시"
-  },
-  {
-    "pcbang_count": 28,
-    "doe": 13,
-    "id": 198,
-    "name": "칠곡군"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 13,
-    "id": 199,
-    "name": "군위군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 13,
-    "id": 200,
-    "name": "예천군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 13,
-    "id": 201,
-    "name": "의성군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 13,
-    "id": 202,
-    "name": "봉화군"
-  },
-  {
-    "pcbang_count": 9,
-    "doe": 13,
-    "id": 203,
-    "name": "울진군"
-  },
-  {
-    "pcbang_count": 17,
-    "doe": 13,
-    "id": 204,
-    "name": "상주시"
-  },
-  {
-    "pcbang_count": 1,
-    "doe": 13,
-    "id": 205,
-    "name": "울릉군"
-  },
-  {
-    "pcbang_count": 6,
-    "doe": 13,
-    "id": 206,
-    "name": "영덕군"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 13,
-    "id": 207,
-    "name": "문경시"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 13,
-    "id": 208,
-    "name": "청송군"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 13,
-    "id": 209,
-    "name": "영양군"
-  },
-  {
-    "pcbang_count": 43,
-    "doe": 14,
-    "id": 210,
-    "name": "동구"
-  },
-  {
-    "pcbang_count": 89,
-    "doe": 14,
-    "id": 211,
-    "name": "서구"
-  },
-  {
-    "pcbang_count": 55,
-    "doe": 14,
-    "id": 212,
-    "name": "남구"
-  },
-  {
-    "pcbang_count": 134,
-    "doe": 14,
-    "id": 213,
-    "name": "북구"
-  },
-  {
-    "pcbang_count": 94,
-    "doe": 14,
-    "id": 214,
-    "name": "광산구"
-  },
-  {
-    "pcbang_count": 69,
-    "doe": 15,
-    "id": 215,
-    "name": "목포시"
-  },
-  {
-    "pcbang_count": 69,
-    "doe": 15,
-    "id": 216,
-    "name": "여수시"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 15,
-    "id": 217,
-    "name": "장성군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 15,
-    "id": 218,
-    "name": "장흥군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 15,
-    "id": 219,
-    "name": "완도군"
-  },
-  {
-    "pcbang_count": 30,
-    "doe": 15,
-    "id": 220,
-    "name": "광양시"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 15,
-    "id": 221,
-    "name": "강진군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 15,
-    "id": 222,
-    "name": "담양군"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 15,
-    "id": 223,
-    "name": "진도군"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 15,
-    "id": 224,
-    "name": "곡성군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 15,
-    "id": 225,
-    "name": "해남군"
-  },
-  {
-    "pcbang_count": 1,
-    "doe": 15,
-    "id": 226,
-    "name": "신안군"
-  },
-  {
-    "pcbang_count": 14,
-    "doe": 15,
-    "id": 227,
-    "name": "영암군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 15,
-    "id": 228,
-    "name": "구례군"
-  },
-  {
-    "pcbang_count": 10,
-    "doe": 15,
-    "id": 229,
-    "name": "고흥군"
-  },
-  {
-    "pcbang_count": 16,
-    "doe": 15,
-    "id": 230,
-    "name": "무안군"
-  },
-  {
-    "pcbang_count": 74,
-    "doe": 15,
-    "id": 231,
-    "name": "순천시"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 15,
-    "id": 232,
-    "name": "보성군"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 15,
-    "id": 233,
-    "name": "함평군"
-  },
-  {
-    "pcbang_count": 8,
-    "doe": 15,
-    "id": 234,
-    "name": "화순군"
-  },
-  {
-    "pcbang_count": 11,
-    "doe": 15,
-    "id": 235,
-    "name": "영광군"
-  },
-  {
-    "pcbang_count": 17,
-    "doe": 15,
-    "id": 236,
-    "name": "나주시"
-  },
-  {
-    "pcbang_count": 20,
-    "doe": 16,
-    "id": 237,
-    "name": "정읍시"
-  },
-  {
-    "pcbang_count": 4,
-    "doe": 16,
-    "id": 238,
-    "name": "순창군"
-  },
-  {
-    "pcbang_count": 14,
-    "doe": 16,
-    "id": 239,
-    "name": "남원시"
-  },
-  {
-    "pcbang_count": 5,
-    "doe": 16,
-    "id": 240,
-    "name": "고창군"
-  },
-  {
-    "pcbang_count": 12,
-    "doe": 16,
-    "id": 241,
-    "name": "김제시"
-  },
-  {
-    "pcbang_count": 14,
-    "doe": 16,
-    "id": 242,
-    "name": "완주군"
-  },
-  {
-    "pcbang_count": 7,
-    "doe": 16,
-    "id": 243,
-    "name": "부안군"
-  },
-  {
-    "pcbang_count": 95,
-    "doe": 16,
-    "id": 244,
-    "name": "전주시 완산구"
-  },
-  {
-    "pcbang_count": 95,
-    "doe": 16,
-    "id": 245,
-    "name": "전주시 덕진구"
-  },
-  {
-    "pcbang_count": 1,
-    "doe": 16,
-    "id": 246,
-    "name": "진안군"
-  },
-  {
-    "pcbang_count": 77,
-    "doe": 16,
-    "id": 247,
-    "name": "익산시"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 16,
-    "id": 248,
-    "name": "장수군"
-  },
-  {
-    "pcbang_count": 3,
-    "doe": 16,
-    "id": 249,
-    "name": "임실군"
-  },
-  {
-    "pcbang_count": 76,
-    "doe": 16,
-    "id": 250,
-    "name": "군산시"
-  },
-  {
-    "pcbang_count": 2,
-    "doe": 16,
-    "id": 251,
-    "name": "무주군"
-  },
-  {
-    "pcbang_count": 124,
-    "doe": 17,
-    "id": 252,
-    "name": "제주시"
-  },
-  {
-    "pcbang_count": 32,
-    "doe": 17,
-    "id": 253,
-    "name": "서귀포시"
+    "model": "pc.si",
+    "pk": 1,
+    "fields": {
+      "name": "광진구",
+      "doe": 1,
+      "pcbang_count": 85,
+      "latitude": 37.5470114,
+      "longitude": 127.0811299
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 2,
+    "fields": {
+      "name": "동대문구",
+      "doe": 1,
+      "pcbang_count": 63,
+      "latitude": 37.5833187,
+      "longitude": 127.0562234
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 3,
+    "fields": {
+      "name": "중랑구",
+      "doe": 1,
+      "pcbang_count": 61,
+      "latitude": 37.5948782,
+      "longitude": 127.0872897
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 4,
+    "fields": {
+      "name": "용산구",
+      "doe": 1,
+      "pcbang_count": 38,
+      "latitude": 37.5378609,
+      "longitude": 126.979358
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 5,
+    "fields": {
+      "name": "성동구",
+      "doe": 1,
+      "pcbang_count": 45,
+      "latitude": 37.5549717,
+      "longitude": 127.0416405
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 6,
+    "fields": {
+      "name": "강북구",
+      "doe": 1,
+      "pcbang_count": 56,
+      "latitude": 37.6306026,
+      "longitude": 127.0247492
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 7,
+    "fields": {
+      "name": "도봉구",
+      "doe": 1,
+      "pcbang_count": 51,
+      "latitude": 37.65801,
+      "longitude": 127.0379132
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 8,
+    "fields": {
+      "name": "노원구",
+      "doe": 1,
+      "pcbang_count": 82,
+      "latitude": 37.64884,
+      "longitude": 127.0692683
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 9,
+    "fields": {
+      "name": "은평구",
+      "doe": 1,
+      "pcbang_count": 72,
+      "latitude": 37.6064093,
+      "longitude": 126.9186369
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 10,
+    "fields": {
+      "name": "서대문구",
+      "doe": 1,
+      "pcbang_count": 47,
+      "latitude": 37.5751425,
+      "longitude": 126.9336826
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 11,
+    "fields": {
+      "name": "마포구",
+      "doe": 1,
+      "pcbang_count": 62,
+      "latitude": 37.5531602,
+      "longitude": 126.9279882
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 12,
+    "fields": {
+      "name": "양천구",
+      "doe": 1,
+      "pcbang_count": 66,
+      "latitude": 37.52758,
+      "longitude": 126.8561953
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 13,
+    "fields": {
+      "name": "강서구",
+      "doe": 1,
+      "pcbang_count": 84,
+      "latitude": 37.5506185,
+      "longitude": 126.841884
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 14,
+    "fields": {
+      "name": "구로구",
+      "doe": 1,
+      "pcbang_count": 77,
+      "latitude": 37.4950906,
+      "longitude": 126.8665229
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 15,
+    "fields": {
+      "name": "금천구",
+      "doe": 1,
+      "pcbang_count": 39,
+      "latitude": 37.4634555,
+      "longitude": 126.9007719
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 16,
+    "fields": {
+      "name": "영등포구",
+      "doe": 1,
+      "pcbang_count": 67,
+      "latitude": 37.5117346,
+      "longitude": 126.9066334
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 17,
+    "fields": {
+      "name": "동작구",
+      "doe": 1,
+      "pcbang_count": 95,
+      "latitude": 37.5014091,
+      "longitude": 126.9486583
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 18,
+    "fields": {
+      "name": "관악구",
+      "doe": 1,
+      "pcbang_count": 116,
+      "latitude": 37.4778086,
+      "longitude": 126.9378506
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 19,
+    "fields": {
+      "name": "서초구",
+      "doe": 1,
+      "pcbang_count": 65,
+      "latitude": 37.4906337,
+      "longitude": 127.0128884
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 20,
+    "fields": {
+      "name": "강남구",
+      "doe": 1,
+      "pcbang_count": 106,
+      "latitude": 37.5021164,
+      "longitude": 127.0486296
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 21,
+    "fields": {
+      "name": "송파구",
+      "doe": 1,
+      "pcbang_count": 100,
+      "latitude": 37.5045369,
+      "longitude": 127.1160764
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 22,
+    "fields": {
+      "name": "강동구",
+      "doe": 1,
+      "pcbang_count": 81,
+      "latitude": 37.5427619,
+      "longitude": 127.1404071
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 23,
+    "fields": {
+      "name": "종로구",
+      "doe": 1,
+      "pcbang_count": 38,
+      "latitude": 37.5775707,
+      "longitude": 126.9934938
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 24,
+    "fields": {
+      "name": "중구",
+      "doe": 1,
+      "pcbang_count": 29,
+      "latitude": 37.5608173,
+      "longitude": 127.0013074
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 25,
+    "fields": {
+      "name": "성북구",
+      "doe": 1,
+      "pcbang_count": 78,
+      "latitude": 37.6008245,
+      "longitude": 127.0297721
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 26,
+    "fields": {
+      "name": "파주시",
+      "doe": 2,
+      "pcbang_count": 58,
+      "latitude": 37.7835556,
+      "longitude": 126.7770953
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 27,
+    "fields": {
+      "name": "수원시 권선구",
+      "doe": 2,
+      "pcbang_count": 49,
+      "latitude": 37.258074,
+      "longitude": 126.9963057
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 28,
+    "fields": {
+      "name": "수원시 팔달구",
+      "doe": 2,
+      "pcbang_count": 50,
+      "latitude": 37.2759387,
+      "longitude": 127.0185149
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 29,
+    "fields": {
+      "name": "수원시 영통구",
+      "doe": 2,
+      "pcbang_count": 52,
+      "latitude": 37.2606367,
+      "longitude": 127.0589904
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 30,
+    "fields": {
+      "name": "성남시 수정구",
+      "doe": 2,
+      "pcbang_count": 50,
+      "latitude": 37.4468861,
+      "longitude": 127.139848
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 31,
+    "fields": {
+      "name": "성남시 중원구",
+      "doe": 2,
+      "pcbang_count": 49,
+      "latitude": 37.4400073,
+      "longitude": 127.1542715
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 32,
+    "fields": {
+      "name": "화성시",
+      "doe": 2,
+      "pcbang_count": 74,
+      "latitude": 37.1899683,
+      "longitude": 126.9938456
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 33,
+    "fields": {
+      "name": "성남시 분당구",
+      "doe": 2,
+      "pcbang_count": 52,
+      "latitude": 37.3814154,
+      "longitude": 127.1172993
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 34,
+    "fields": {
+      "name": "안양시 만안구",
+      "doe": 2,
+      "pcbang_count": 47,
+      "latitude": 37.399526,
+      "longitude": 126.9180241
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 35,
+    "fields": {
+      "name": "안양시 동안구",
+      "doe": 2,
+      "pcbang_count": 54,
+      "latitude": 37.3923918,
+      "longitude": 126.9582639
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 36,
+    "fields": {
+      "name": "부천시 원미구",
+      "doe": 2,
+      "pcbang_count": 83,
+      "latitude": 37.4956572,
+      "longitude": 126.7756012
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 37,
+    "fields": {
+      "name": "부천시 소사구",
+      "doe": 2,
+      "pcbang_count": 32,
+      "latitude": 37.4812669,
+      "longitude": 126.7849779
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 38,
+    "fields": {
+      "name": "부천시 오정구",
+      "doe": 2,
+      "pcbang_count": 29,
+      "latitude": 37.5233512,
+      "longitude": 126.7993395
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 39,
+    "fields": {
+      "name": "광명시",
+      "doe": 2,
+      "pcbang_count": 46,
+      "latitude": 37.4688247,
+      "longitude": 126.8665372
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 40,
+    "fields": {
+      "name": "평택시",
+      "doe": 2,
+      "pcbang_count": 98,
+      "latitude": 37.0150804,
+      "longitude": 127.0444481
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 41,
+    "fields": {
+      "name": "이천시",
+      "doe": 2,
+      "pcbang_count": 36,
+      "latitude": 37.2613254,
+      "longitude": 127.4582155
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 42,
+    "fields": {
+      "name": "동두천시",
+      "doe": 2,
+      "pcbang_count": 23,
+      "latitude": 37.8976346,
+      "longitude": 127.0549253
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 43,
+    "fields": {
+      "name": "안산시 상록구",
+      "doe": 2,
+      "pcbang_count": 92,
+      "latitude": 37.3065999,
+      "longitude": 126.8587932
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 44,
+    "fields": {
+      "name": "안산시 단원구",
+      "doe": 2,
+      "pcbang_count": 89,
+      "latitude": 37.3293139,
+      "longitude": 126.8152682
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 45,
+    "fields": {
+      "name": "안성시",
+      "doe": 2,
+      "pcbang_count": 36,
+      "latitude": 37.0096924,
+      "longitude": 127.2493977
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 46,
+    "fields": {
+      "name": "고양시 덕양구",
+      "doe": 2,
+      "pcbang_count": 73,
+      "latitude": 37.641505,
+      "longitude": 126.8440058
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 47,
+    "fields": {
+      "name": "고양시 일산동구",
+      "doe": 2,
+      "pcbang_count": 51,
+      "latitude": 37.6632614,
+      "longitude": 126.7826554
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 48,
+    "fields": {
+      "name": "고양시 일산서구",
+      "doe": 2,
+      "pcbang_count": 43,
+      "latitude": 37.6845822,
+      "longitude": 126.7592634
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 49,
+    "fields": {
+      "name": "과천시",
+      "doe": 2,
+      "pcbang_count": 7,
+      "latitude": 37.4289986,
+      "longitude": 126.9930558
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 50,
+    "fields": {
+      "name": "구리시",
+      "doe": 2,
+      "pcbang_count": 30,
+      "latitude": 37.5988769,
+      "longitude": 127.1403302
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 51,
+    "fields": {
+      "name": "남양주시",
+      "doe": 2,
+      "pcbang_count": 76,
+      "latitude": 37.6579411,
+      "longitude": 127.2076599
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 52,
+    "fields": {
+      "name": "오산시",
+      "doe": 2,
+      "pcbang_count": 53,
+      "latitude": 37.1542959,
+      "longitude": 127.0631887
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 53,
+    "fields": {
+      "name": "시흥시",
+      "doe": 2,
+      "pcbang_count": 101,
+      "latitude": 37.3751909,
+      "longitude": 126.7603391
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 54,
+    "fields": {
+      "name": "군포시",
+      "doe": 2,
+      "pcbang_count": 43,
+      "latitude": 37.3560881,
+      "longitude": 126.939738
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 55,
+    "fields": {
+      "name": "의왕시",
+      "doe": 2,
+      "pcbang_count": 22,
+      "latitude": 37.3610152,
+      "longitude": 126.9715719
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 56,
+    "fields": {
+      "name": "하남시",
+      "doe": 2,
+      "pcbang_count": 19,
+      "latitude": 37.5409796,
+      "longitude": 127.208083
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 57,
+    "fields": {
+      "name": "김포시",
+      "doe": 2,
+      "pcbang_count": 42,
+      "latitude": 37.6402225,
+      "longitude": 126.676769
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 58,
+    "fields": {
+      "name": "용인시 처인구",
+      "doe": 2,
+      "pcbang_count": 49,
+      "latitude": 37.246287,
+      "longitude": 127.2211257
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 59,
+    "fields": {
+      "name": "용인시 기흥구",
+      "doe": 2,
+      "pcbang_count": 51,
+      "latitude": 37.2786083,
+      "longitude": 127.1126244
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 60,
+    "fields": {
+      "name": "용인시 수지구",
+      "doe": 2,
+      "pcbang_count": 37,
+      "latitude": 37.3239106,
+      "longitude": 127.1001835
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 61,
+    "fields": {
+      "name": "연천군",
+      "doe": 2,
+      "pcbang_count": 11,
+      "latitude": 38.0401874,
+      "longitude": 127.0693205
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 62,
+    "fields": {
+      "name": "가평군",
+      "doe": 2,
+      "pcbang_count": 11,
+      "latitude": 37.7893608,
+      "longitude": 127.4412545
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 63,
+    "fields": {
+      "name": "양평군",
+      "doe": 2,
+      "pcbang_count": 14,
+      "latitude": 37.4926936,
+      "longitude": 127.5020509
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 64,
+    "fields": {
+      "name": "광주시",
+      "doe": 2,
+      "pcbang_count": 49,
+      "latitude": 37.3924978,
+      "longitude": 127.255872
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 65,
+    "fields": {
+      "name": "포천시",
+      "doe": 2,
+      "pcbang_count": 26,
+      "latitude": 37.9088666,
+      "longitude": 127.2180889
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 66,
+    "fields": {
+      "name": "양주시",
+      "doe": 2,
+      "pcbang_count": 21,
+      "latitude": 37.8255256,
+      "longitude": 127.0358862
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 67,
+    "fields": {
+      "name": "수원시 장안구",
+      "doe": 2,
+      "pcbang_count": 56,
+      "latitude": 37.2977697,
+      "longitude": 127.0005472
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 68,
+    "fields": {
+      "name": "의정부시",
+      "doe": 2,
+      "pcbang_count": 84,
+      "latitude": 37.7391441,
+      "longitude": 127.0552389
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 69,
+    "fields": {
+      "name": "여주시",
+      "doe": 2,
+      "pcbang_count": 11,
+      "latitude": 37.3010385,
+      "longitude": 127.6330637
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 70,
+    "fields": {
+      "name": "동구",
+      "doe": 3,
+      "pcbang_count": 11,
+      "latitude": 37.4777418,
+      "longitude": 126.6381234
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 71,
+    "fields": {
+      "name": "남구",
+      "doe": 3,
+      "pcbang_count": 87,
+      "latitude": 37.4545296,
+      "longitude": 126.6681425
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 72,
+    "fields": {
+      "name": "연수구",
+      "doe": 3,
+      "pcbang_count": 55,
+      "latitude": 37.4154058,
+      "longitude": 126.6693857
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 73,
+    "fields": {
+      "name": "남동구",
+      "doe": 3,
+      "pcbang_count": 89,
+      "latitude": 37.4427665,
+      "longitude": 126.7184429
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 74,
+    "fields": {
+      "name": "계양구",
+      "doe": 3,
+      "pcbang_count": 57,
+      "latitude": 37.5392653,
+      "longitude": 126.729042
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 75,
+    "fields": {
+      "name": "서구",
+      "doe": 3,
+      "pcbang_count": 71,
+      "latitude": 37.5477763,
+      "longitude": 126.6721111
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 76,
+    "fields": {
+      "name": "강화군",
+      "doe": 3,
+      "pcbang_count": 8,
+      "latitude": 37.7274227,
+      "longitude": 126.4740556
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 77,
+    "fields": {
+      "name": "옹진군",
+      "doe": 3,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 78,
+    "fields": {
+      "name": "중구",
+      "doe": 3,
+      "pcbang_count": 20,
+      "latitude": 37.479539,
+      "longitude": 126.5755006
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 79,
+    "fields": {
+      "name": "부평구",
+      "doe": 3,
+      "pcbang_count": 98,
+      "latitude": 37.4981122,
+      "longitude": 126.7200819
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 80,
+    "fields": {
+      "name": "횡성군",
+      "doe": 4,
+      "pcbang_count": 8,
+      "latitude": 37.4932959,
+      "longitude": 128.0150195
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 81,
+    "fields": {
+      "name": "영월군",
+      "doe": 4,
+      "pcbang_count": 4,
+      "latitude": 37.1834827,
+      "longitude": 128.4665633
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 82,
+    "fields": {
+      "name": "평창군",
+      "doe": 4,
+      "pcbang_count": 7,
+      "latitude": 37.5740969,
+      "longitude": 128.481708
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 83,
+    "fields": {
+      "name": "정선군",
+      "doe": 4,
+      "pcbang_count": 2,
+      "latitude": 37.3040551,
+      "longitude": 128.7395999
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 84,
+    "fields": {
+      "name": "철원군",
+      "doe": 4,
+      "pcbang_count": 16,
+      "latitude": 38.2041204,
+      "longitude": 127.3029004
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 85,
+    "fields": {
+      "name": "화천군",
+      "doe": 4,
+      "pcbang_count": 21,
+      "latitude": 38.109229,
+      "longitude": 127.5924306
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 86,
+    "fields": {
+      "name": "양구군",
+      "doe": 4,
+      "pcbang_count": 9,
+      "latitude": 38.1072634,
+      "longitude": 127.9887167
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 87,
+    "fields": {
+      "name": "인제군",
+      "doe": 4,
+      "pcbang_count": 16,
+      "latitude": 38.0805683,
+      "longitude": 128.2113813
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 88,
+    "fields": {
+      "name": "원주시",
+      "doe": 4,
+      "pcbang_count": 86,
+      "latitude": 37.3400109,
+      "longitude": 127.936917
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 89,
+    "fields": {
+      "name": "고성군",
+      "doe": 4,
+      "pcbang_count": 6,
+      "latitude": 38.3368059,
+      "longitude": 128.5015827
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 90,
+    "fields": {
+      "name": "강릉시",
+      "doe": 4,
+      "pcbang_count": 71,
+      "latitude": 37.7696703,
+      "longitude": 128.8903871
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 91,
+    "fields": {
+      "name": "태백시",
+      "doe": 4,
+      "pcbang_count": 8,
+      "latitude": 37.1578717,
+      "longitude": 128.9930645
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 92,
+    "fields": {
+      "name": "속초시",
+      "doe": 4,
+      "pcbang_count": 20,
+      "latitude": 38.1986935,
+      "longitude": 128.5818483
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 93,
+    "fields": {
+      "name": "삼척시",
+      "doe": 4,
+      "pcbang_count": 17,
+      "latitude": 37.3751728,
+      "longitude": 129.1839526
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 94,
+    "fields": {
+      "name": "홍천군",
+      "doe": 4,
+      "pcbang_count": 15,
+      "latitude": 37.6842979,
+      "longitude": 127.8772277
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 95,
+    "fields": {
+      "name": "춘천시",
+      "doe": 4,
+      "pcbang_count": 69,
+      "latitude": 37.8708162,
+      "longitude": 127.7393521
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 96,
+    "fields": {
+      "name": "양양군",
+      "doe": 4,
+      "pcbang_count": 1,
+      "latitude": 38.0780611,
+      "longitude": 128.6256092
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 97,
+    "fields": {
+      "name": "동해시",
+      "doe": 4,
+      "pcbang_count": 23,
+      "latitude": 37.5170115,
+      "longitude": 129.1105829
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 98,
+    "fields": {
+      "name": "동구",
+      "doe": 5,
+      "pcbang_count": 67,
+      "latitude": 36.336119,
+      "longitude": 127.4448831
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 99,
+    "fields": {
+      "name": "중구",
+      "doe": 5,
+      "pcbang_count": 53,
+      "latitude": 36.3220024,
+      "longitude": 127.4115246
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 100,
+    "fields": {
+      "name": "서구",
+      "doe": 5,
+      "pcbang_count": 119,
+      "latitude": 36.33397,
+      "longitude": 127.3735358
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 101,
+    "fields": {
+      "name": "유성구",
+      "doe": 5,
+      "pcbang_count": 63,
+      "latitude": 36.3754347,
+      "longitude": 127.3499894
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 102,
+    "fields": {
+      "name": "대덕구",
+      "doe": 5,
+      "pcbang_count": 46,
+      "latitude": 36.379698,
+      "longitude": 127.429501
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 103,
+    "fields": {
+      "name": "괴산군",
+      "doe": 6,
+      "pcbang_count": 5,
+      "latitude": 36.8096175,
+      "longitude": 127.7933353
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 104,
+    "fields": {
+      "name": "제천시",
+      "doe": 6,
+      "pcbang_count": 26,
+      "latitude": 37.1474579,
+      "longitude": 128.212109
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 105,
+    "fields": {
+      "name": "음성군",
+      "doe": 6,
+      "pcbang_count": 17,
+      "latitude": 36.9927092,
+      "longitude": 127.5964054
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 106,
+    "fields": {
+      "name": "단양군",
+      "doe": 6,
+      "pcbang_count": 3,
+      "latitude": 37.0002724,
+      "longitude": 128.3453275
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 107,
+    "fields": {
+      "name": "옥천군",
+      "doe": 6,
+      "pcbang_count": 8,
+      "latitude": 36.3011534,
+      "longitude": 127.5690039
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 108,
+    "fields": {
+      "name": "영동군",
+      "doe": 6,
+      "pcbang_count": 7,
+      "latitude": 36.1778181,
+      "longitude": 127.7786064
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 109,
+    "fields": {
+      "name": "청주시 상당구",
+      "doe": 6,
+      "pcbang_count": 33,
+      "latitude": 36.6229809,
+      "longitude": 127.5057755
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 110,
+    "fields": {
+      "name": "청주시 흥덕구",
+      "doe": 6,
+      "pcbang_count": 60,
+      "latitude": 36.6364458,
+      "longitude": 127.4427219
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 111,
+    "fields": {
+      "name": "충주시",
+      "doe": 6,
+      "pcbang_count": 49,
+      "latitude": 36.9733661,
+      "longitude": 127.9142637
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 112,
+    "fields": {
+      "name": "증평군",
+      "doe": 6,
+      "pcbang_count": 9,
+      "latitude": 36.7837951,
+      "longitude": 127.5815314
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 113,
+    "fields": {
+      "name": "진천군",
+      "doe": 6,
+      "pcbang_count": 11,
+      "latitude": 36.9358695,
+      "longitude": 127.4454876
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 114,
+    "fields": {
+      "name": "보은군",
+      "doe": 6,
+      "pcbang_count": 3,
+      "latitude": 36.483174,
+      "longitude": 127.7189718
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 115,
+    "fields": {
+      "name": "청주시 청원구",
+      "doe": 6,
+      "pcbang_count": 21,
+      "latitude": 36.677811,
+      "longitude": 127.4801724
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 116,
+    "fields": {
+      "name": "청주시 서원구",
+      "doe": 6,
+      "pcbang_count": 22,
+      "latitude": 36.6229953,
+      "longitude": 127.4642035
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 117,
+    "fields": {
+      "name": "공주시",
+      "doe": 7,
+      "pcbang_count": 21,
+      "latitude": 36.4695965,
+      "longitude": 127.1252156
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 118,
+    "fields": {
+      "name": "천안시 서북구",
+      "doe": 7,
+      "pcbang_count": 83,
+      "latitude": 36.8312291,
+      "longitude": 127.1363899
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 119,
+    "fields": {
+      "name": "청양군",
+      "doe": 7,
+      "pcbang_count": 4,
+      "latitude": 36.4404193,
+      "longitude": 126.839327
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 120,
+    "fields": {
+      "name": "홍성군",
+      "doe": 7,
+      "pcbang_count": 17,
+      "latitude": 36.5870307,
+      "longitude": 126.6568722
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 121,
+    "fields": {
+      "name": "논산시",
+      "doe": 7,
+      "pcbang_count": 27,
+      "latitude": 36.1841108,
+      "longitude": 127.0881837
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 122,
+    "fields": {
+      "name": "예산군",
+      "doe": 7,
+      "pcbang_count": 12,
+      "latitude": 36.6959712,
+      "longitude": 126.7954934
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 123,
+    "fields": {
+      "name": "계룡시",
+      "doe": 7,
+      "pcbang_count": 5,
+      "latitude": 36.285464,
+      "longitude": 127.24453
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 124,
+    "fields": {
+      "name": "태안군",
+      "doe": 7,
+      "pcbang_count": 9,
+      "latitude": 36.716813,
+      "longitude": 126.2875564
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 125,
+    "fields": {
+      "name": "금산군",
+      "doe": 7,
+      "pcbang_count": 9,
+      "latitude": 36.1446547,
+      "longitude": 127.4756224
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 126,
+    "fields": {
+      "name": "부여군",
+      "doe": 7,
+      "pcbang_count": 5,
+      "latitude": 36.2624284,
+      "longitude": 126.8793969
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 127,
+    "fields": {
+      "name": "보령시",
+      "doe": 7,
+      "pcbang_count": 20,
+      "latitude": 36.3294696,
+      "longitude": 126.5845011
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 128,
+    "fields": {
+      "name": "서천군",
+      "doe": 7,
+      "pcbang_count": 4,
+      "latitude": 36.060955,
+      "longitude": 126.6938729
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 129,
+    "fields": {
+      "name": "아산시",
+      "doe": 7,
+      "pcbang_count": 66,
+      "latitude": 36.7937451,
+      "longitude": 127.0260273
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 130,
+    "fields": {
+      "name": "천안시 동남구",
+      "doe": 7,
+      "pcbang_count": 63,
+      "latitude": 36.8044886,
+      "longitude": 127.1595615
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 131,
+    "fields": {
+      "name": "서산시",
+      "doe": 7,
+      "pcbang_count": 34,
+      "latitude": 36.7811507,
+      "longitude": 126.4694216
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 132,
+    "fields": {
+      "name": "당진시",
+      "doe": 7,
+      "pcbang_count": 12,
+      "latitude": 36.9035499,
+      "longitude": 126.673034
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 133,
+    "fields": {
+      "name": "동구",
+      "doe": 8,
+      "pcbang_count": 18,
+      "latitude": 35.1264887,
+      "longitude": 129.0457224
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 134,
+    "fields": {
+      "name": "영도구",
+      "doe": 8,
+      "pcbang_count": 26,
+      "latitude": 35.0843043,
+      "longitude": 129.0579896
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 135,
+    "fields": {
+      "name": "부산진구",
+      "doe": 8,
+      "pcbang_count": 97,
+      "latitude": 35.1606953,
+      "longitude": 129.0493058
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 136,
+    "fields": {
+      "name": "동래구",
+      "doe": 8,
+      "pcbang_count": 63,
+      "latitude": 35.2031885,
+      "longitude": 129.0838956
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 137,
+    "fields": {
+      "name": "서구",
+      "doe": 8,
+      "pcbang_count": 23,
+      "latitude": 35.1046231,
+      "longitude": 129.0188288
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 138,
+    "fields": {
+      "name": "남구",
+      "doe": 8,
+      "pcbang_count": 73,
+      "latitude": 35.1312702,
+      "longitude": 129.0944864
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 139,
+    "fields": {
+      "name": "북구",
+      "doe": 8,
+      "pcbang_count": 59,
+      "latitude": 35.2192501,
+      "longitude": 129.0127708
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 140,
+    "fields": {
+      "name": "해운대구",
+      "doe": 8,
+      "pcbang_count": 67,
+      "latitude": 35.1872908,
+      "longitude": 129.1499774
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 141,
+    "fields": {
+      "name": "금정구",
+      "doe": 8,
+      "pcbang_count": 69,
+      "latitude": 35.2385643,
+      "longitude": 129.0912086
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 142,
+    "fields": {
+      "name": "강서구",
+      "doe": 8,
+      "pcbang_count": 6,
+      "latitude": 35.1054484,
+      "longitude": 128.9078291
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 143,
+    "fields": {
+      "name": "연제구",
+      "doe": 8,
+      "pcbang_count": 42,
+      "latitude": 35.1844425,
+      "longitude": 129.0879984
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 144,
+    "fields": {
+      "name": "수영구",
+      "doe": 8,
+      "pcbang_count": 36,
+      "latitude": 35.1605236,
+      "longitude": 129.1130625
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 145,
+    "fields": {
+      "name": "사상구",
+      "doe": 8,
+      "pcbang_count": 50,
+      "latitude": 35.1590582,
+      "longitude": 128.9898529
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 146,
+    "fields": {
+      "name": "기장군",
+      "doe": 8,
+      "pcbang_count": 22,
+      "latitude": 35.2794293,
+      "longitude": 129.2084392
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 147,
+    "fields": {
+      "name": "중구",
+      "doe": 8,
+      "pcbang_count": 18,
+      "latitude": 35.1017638,
+      "longitude": 129.0276919
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 148,
+    "fields": {
+      "name": "사하구",
+      "doe": 8,
+      "pcbang_count": 74,
+      "latitude": 35.0915892,
+      "longitude": 128.977863
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 149,
+    "fields": {
+      "name": "중구",
+      "doe": 9,
+      "pcbang_count": 58,
+      "latitude": 35.5616234,
+      "longitude": 129.3245967
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 150,
+    "fields": {
+      "name": "동구",
+      "doe": 9,
+      "pcbang_count": 56,
+      "latitude": 35.5048284,
+      "longitude": 129.4243166
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 151,
+    "fields": {
+      "name": "울주군",
+      "doe": 9,
+      "pcbang_count": 43,
+      "latitude": 35.5038726,
+      "longitude": 129.2461742
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 152,
+    "fields": {
+      "name": "남구",
+      "doe": 9,
+      "pcbang_count": 103,
+      "latitude": 35.5374322,
+      "longitude": 129.3090852
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 153,
+    "fields": {
+      "name": "북구",
+      "doe": 9,
+      "pcbang_count": 30,
+      "latitude": 35.6005416,
+      "longitude": 129.3612095
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 154,
+    "fields": {
+      "name": "세종",
+      "doe": 10,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 155,
+    "fields": {
+      "name": "함안군",
+      "doe": 11,
+      "pcbang_count": 9,
+      "latitude": 35.2903684,
+      "longitude": 128.4606478
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 156,
+    "fields": {
+      "name": "진주시",
+      "doe": 11,
+      "pcbang_count": 86,
+      "latitude": 35.1819298,
+      "longitude": 128.0973048
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 157,
+    "fields": {
+      "name": "창녕군",
+      "doe": 11,
+      "pcbang_count": 8,
+      "latitude": 35.4726696,
+      "longitude": 128.4948313
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 158,
+    "fields": {
+      "name": "통영시",
+      "doe": 11,
+      "pcbang_count": 27,
+      "latitude": 34.8551182,
+      "longitude": 128.4199188
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 159,
+    "fields": {
+      "name": "사천시",
+      "doe": 11,
+      "pcbang_count": 22,
+      "latitude": 34.9955314,
+      "longitude": 128.0844628
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 160,
+    "fields": {
+      "name": "고성군",
+      "doe": 11,
+      "pcbang_count": 9,
+      "latitude": 34.9894281,
+      "longitude": 128.3620501
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 161,
+    "fields": {
+      "name": "김해시",
+      "doe": 11,
+      "pcbang_count": 88,
+      "latitude": 35.2367476,
+      "longitude": 128.8624441
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 162,
+    "fields": {
+      "name": "산청군",
+      "doe": 11,
+      "pcbang_count": 7,
+      "latitude": 35.3477655,
+      "longitude": 127.9124869
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 163,
+    "fields": {
+      "name": "밀양시",
+      "doe": 11,
+      "pcbang_count": 16,
+      "latitude": 35.4825954,
+      "longitude": 128.7482968
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 164,
+    "fields": {
+      "name": "남해군",
+      "doe": 11,
+      "pcbang_count": 5,
+      "latitude": 34.8126673,
+      "longitude": 127.925076
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 165,
+    "fields": {
+      "name": "하동군",
+      "doe": 11,
+      "pcbang_count": 5,
+      "latitude": 35.0775551,
+      "longitude": 127.7853398
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 166,
+    "fields": {
+      "name": "거제시",
+      "doe": 11,
+      "pcbang_count": 73,
+      "latitude": 34.8824761,
+      "longitude": 128.6550068
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 167,
+    "fields": {
+      "name": "창원시",
+      "doe": 11,
+      "pcbang_count": 211,
+      "latitude": 35.2164772,
+      "longitude": 128.6420028
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 168,
+    "fields": {
+      "name": "양산시",
+      "doe": 11,
+      "pcbang_count": 57,
+      "latitude": 35.3660824,
+      "longitude": 129.0721103
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 169,
+    "fields": {
+      "name": "의령군",
+      "doe": 11,
+      "pcbang_count": 3,
+      "latitude": 35.4170423,
+      "longitude": 128.3036155
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 170,
+    "fields": {
+      "name": "합천군",
+      "doe": 11,
+      "pcbang_count": 4,
+      "latitude": 35.6135369,
+      "longitude": 128.179701
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 171,
+    "fields": {
+      "name": "창원시 진해구",
+      "doe": 11,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 172,
+    "fields": {
+      "name": "창원시 마산합포구",
+      "doe": 11,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 173,
+    "fields": {
+      "name": "창원시 마산회원구",
+      "doe": 11,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 174,
+    "fields": {
+      "name": "창원시 성산구",
+      "doe": 11,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 175,
+    "fields": {
+      "name": "창원시 의창구",
+      "doe": 11,
+      "pcbang_count": 0,
+      "latitude": 0,
+      "longitude": 0
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 176,
+    "fields": {
+      "name": "함양군",
+      "doe": 11,
+      "pcbang_count": 6,
+      "latitude": 35.5208713,
+      "longitude": 127.7283155
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 177,
+    "fields": {
+      "name": "거창군",
+      "doe": 11,
+      "pcbang_count": 9,
+      "latitude": 35.6866696,
+      "longitude": 127.9107917
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 178,
+    "fields": {
+      "name": "중구",
+      "doe": 12,
+      "pcbang_count": 23,
+      "latitude": 35.8656008,
+      "longitude": 128.5941871
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 179,
+    "fields": {
+      "name": "동구",
+      "doe": 12,
+      "pcbang_count": 78,
+      "latitude": 35.8802922,
+      "longitude": 128.6583234
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 180,
+    "fields": {
+      "name": "서구",
+      "doe": 12,
+      "pcbang_count": 49,
+      "latitude": 35.8727122,
+      "longitude": 128.561005
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 181,
+    "fields": {
+      "name": "남구",
+      "doe": 12,
+      "pcbang_count": 44,
+      "latitude": 35.8457236,
+      "longitude": 128.5825936
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 182,
+    "fields": {
+      "name": "달서구",
+      "doe": 12,
+      "pcbang_count": 132,
+      "latitude": 35.8376641,
+      "longitude": 128.5291911
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 183,
+    "fields": {
+      "name": "달성군",
+      "doe": 12,
+      "pcbang_count": 32,
+      "latitude": 35.7851642,
+      "longitude": 128.4695853
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 184,
+    "fields": {
+      "name": "북구",
+      "doe": 12,
+      "pcbang_count": 102,
+      "latitude": 35.9084396,
+      "longitude": 128.5833108
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 185,
+    "fields": {
+      "name": "수성구",
+      "doe": 12,
+      "pcbang_count": 91,
+      "latitude": 35.8428895,
+      "longitude": 128.6444891
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 186,
+    "fields": {
+      "name": "안동시",
+      "doe": 13,
+      "pcbang_count": 29,
+      "latitude": 36.5621033,
+      "longitude": 128.7252883
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 187,
+    "fields": {
+      "name": "구미시",
+      "doe": 13,
+      "pcbang_count": 125,
+      "latitude": 36.1208277,
+      "longitude": 128.3762343
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 188,
+    "fields": {
+      "name": "포항시 남구",
+      "doe": 13,
+      "pcbang_count": 64,
+      "latitude": 36.0016454,
+      "longitude": 129.3832151
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 189,
+    "fields": {
+      "name": "영천시",
+      "doe": 13,
+      "pcbang_count": 16,
+      "latitude": 35.9714588,
+      "longitude": 128.9383292
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 190,
+    "fields": {
+      "name": "포항시 북구",
+      "doe": 13,
+      "pcbang_count": 53,
+      "latitude": 36.0597405,
+      "longitude": 129.3718113
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 191,
+    "fields": {
+      "name": "영주시",
+      "doe": 13,
+      "pcbang_count": 22,
+      "latitude": 36.8261211,
+      "longitude": 128.6056004
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 192,
+    "fields": {
+      "name": "경주시",
+      "doe": 13,
+      "pcbang_count": 51,
+      "latitude": 35.8548701,
+      "longitude": 129.222766
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 193,
+    "fields": {
+      "name": "김천시",
+      "doe": 13,
+      "pcbang_count": 22,
+      "latitude": 36.1263401,
+      "longitude": 128.1159451
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 194,
+    "fields": {
+      "name": "청도군",
+      "doe": 13,
+      "pcbang_count": 2,
+      "latitude": 35.6455481,
+      "longitude": 128.7401765
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 195,
+    "fields": {
+      "name": "고령군",
+      "doe": 13,
+      "pcbang_count": 3,
+      "latitude": 35.7594353,
+      "longitude": 128.3269312
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 196,
+    "fields": {
+      "name": "성주군",
+      "doe": 13,
+      "pcbang_count": 6,
+      "latitude": 35.9185551,
+      "longitude": 128.2873951
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 197,
+    "fields": {
+      "name": "경산시",
+      "doe": 13,
+      "pcbang_count": 85,
+      "latitude": 35.8515011,
+      "longitude": 128.7715599
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 198,
+    "fields": {
+      "name": "칠곡군",
+      "doe": 13,
+      "pcbang_count": 28,
+      "latitude": 36.0518259,
+      "longitude": 128.3911747
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 199,
+    "fields": {
+      "name": "군위군",
+      "doe": 13,
+      "pcbang_count": 2,
+      "latitude": 36.2362183,
+      "longitude": 128.5665877
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 200,
+    "fields": {
+      "name": "예천군",
+      "doe": 13,
+      "pcbang_count": 4,
+      "latitude": 36.6563119,
+      "longitude": 128.4557537
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 201,
+    "fields": {
+      "name": "의성군",
+      "doe": 13,
+      "pcbang_count": 4,
+      "latitude": 36.359663,
+      "longitude": 128.631184
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 202,
+    "fields": {
+      "name": "봉화군",
+      "doe": 13,
+      "pcbang_count": 3,
+      "latitude": 36.8899441,
+      "longitude": 128.7400723
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 203,
+    "fields": {
+      "name": "울진군",
+      "doe": 13,
+      "pcbang_count": 9,
+      "latitude": 37.0174817,
+      "longitude": 129.4033951
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 204,
+    "fields": {
+      "name": "상주시",
+      "doe": 13,
+      "pcbang_count": 17,
+      "latitude": 36.4282402,
+      "longitude": 128.1581335
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 205,
+    "fields": {
+      "name": "울릉군",
+      "doe": 13,
+      "pcbang_count": 1,
+      "latitude": 37.4934339,
+      "longitude": 130.9092006
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 206,
+    "fields": {
+      "name": "영덕군",
+      "doe": 13,
+      "pcbang_count": 6,
+      "latitude": 36.4374425,
+      "longitude": 129.3855958
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 207,
+    "fields": {
+      "name": "문경시",
+      "doe": 13,
+      "pcbang_count": 11,
+      "latitude": 36.6166936,
+      "longitude": 128.1756583
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 208,
+    "fields": {
+      "name": "청송군",
+      "doe": 13,
+      "pcbang_count": 2,
+      "latitude": 36.4335287,
+      "longitude": 129.0569845
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 209,
+    "fields": {
+      "name": "영양군",
+      "doe": 13,
+      "pcbang_count": 2,
+      "latitude": 36.6638545,
+      "longitude": 129.1140287
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 210,
+    "fields": {
+      "name": "동구",
+      "doe": 14,
+      "pcbang_count": 44,
+      "latitude": 35.1479311,
+      "longitude": 126.9258623
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 211,
+    "fields": {
+      "name": "서구",
+      "doe": 14,
+      "pcbang_count": 91,
+      "latitude": 35.1469114,
+      "longitude": 126.8675158
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 212,
+    "fields": {
+      "name": "남구",
+      "doe": 14,
+      "pcbang_count": 55,
+      "latitude": 35.1306346,
+      "longitude": 126.9027877
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 213,
+    "fields": {
+      "name": "북구",
+      "doe": 14,
+      "pcbang_count": 138,
+      "latitude": 35.1819306,
+      "longitude": 126.9012949
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 214,
+    "fields": {
+      "name": "광산구",
+      "doe": 14,
+      "pcbang_count": 95,
+      "latitude": 35.1819048,
+      "longitude": 126.8195461
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 215,
+    "fields": {
+      "name": "목포시",
+      "doe": 15,
+      "pcbang_count": 71,
+      "latitude": 34.8053643,
+      "longitude": 126.4052139
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 216,
+    "fields": {
+      "name": "여수시",
+      "doe": 15,
+      "pcbang_count": 72,
+      "latitude": 34.7562926,
+      "longitude": 127.688695
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 217,
+    "fields": {
+      "name": "장성군",
+      "doe": 15,
+      "pcbang_count": 5,
+      "latitude": 35.2815319,
+      "longitude": 126.7367903
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 218,
+    "fields": {
+      "name": "장흥군",
+      "doe": 15,
+      "pcbang_count": 4,
+      "latitude": 34.649873,
+      "longitude": 126.9167936
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 219,
+    "fields": {
+      "name": "완도군",
+      "doe": 15,
+      "pcbang_count": 6,
+      "latitude": 34.2931071,
+      "longitude": 126.7197295
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 220,
+    "fields": {
+      "name": "광양시",
+      "doe": 15,
+      "pcbang_count": 30,
+      "latitude": 34.9591537,
+      "longitude": 127.6499448
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 221,
+    "fields": {
+      "name": "강진군",
+      "doe": 15,
+      "pcbang_count": 4,
+      "latitude": 34.6390582,
+      "longitude": 126.7694364
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 222,
+    "fields": {
+      "name": "담양군",
+      "doe": 15,
+      "pcbang_count": 4,
+      "latitude": 35.2973007,
+      "longitude": 126.9914493
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 223,
+    "fields": {
+      "name": "진도군",
+      "doe": 15,
+      "pcbang_count": 4,
+      "latitude": 34.463311,
+      "longitude": 126.2459547
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 224,
+    "fields": {
+      "name": "곡성군",
+      "doe": 15,
+      "pcbang_count": 6,
+      "latitude": 35.2771769,
+      "longitude": 127.1878585
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 225,
+    "fields": {
+      "name": "해남군",
+      "doe": 15,
+      "pcbang_count": 8,
+      "latitude": 34.5461128,
+      "longitude": 126.5912504
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 226,
+    "fields": {
+      "name": "신안군",
+      "doe": 15,
+      "pcbang_count": 1,
+      "latitude": 35.0599799,
+      "longitude": 126.2063764
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 227,
+    "fields": {
+      "name": "영암군",
+      "doe": 15,
+      "pcbang_count": 14,
+      "latitude": 34.7631447,
+      "longitude": 126.5093001
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 228,
+    "fields": {
+      "name": "구례군",
+      "doe": 15,
+      "pcbang_count": 3,
+      "latitude": 35.2090886,
+      "longitude": 127.4662283
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 229,
+    "fields": {
+      "name": "고흥군",
+      "doe": 15,
+      "pcbang_count": 10,
+      "latitude": 34.5831412,
+      "longitude": 127.2331247
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 230,
+    "fields": {
+      "name": "무안군",
+      "doe": 15,
+      "pcbang_count": 16,
+      "latitude": 34.9073997,
+      "longitude": 126.447394
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 231,
+    "fields": {
+      "name": "순천시",
+      "doe": 15,
+      "pcbang_count": 75,
+      "latitude": 34.9536132,
+      "longitude": 127.509221
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 232,
+    "fields": {
+      "name": "보성군",
+      "doe": 15,
+      "pcbang_count": 5,
+      "latitude": 34.7977833,
+      "longitude": 127.187567
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 233,
+    "fields": {
+      "name": "함평군",
+      "doe": 15,
+      "pcbang_count": 5,
+      "latitude": 35.0780405,
+      "longitude": 126.5451583
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 234,
+    "fields": {
+      "name": "화순군",
+      "doe": 15,
+      "pcbang_count": 8,
+      "latitude": 35.0614754,
+      "longitude": 126.9897817
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 235,
+    "fields": {
+      "name": "영광군",
+      "doe": 15,
+      "pcbang_count": 11,
+      "latitude": 35.2864496,
+      "longitude": 126.5007961
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 236,
+    "fields": {
+      "name": "나주시",
+      "doe": 15,
+      "pcbang_count": 18,
+      "latitude": 35.0341444,
+      "longitude": 126.735493
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 237,
+    "fields": {
+      "name": "정읍시",
+      "doe": 16,
+      "pcbang_count": 20,
+      "latitude": 35.5806849,
+      "longitude": 126.8611633
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 238,
+    "fields": {
+      "name": "순창군",
+      "doe": 16,
+      "pcbang_count": 4,
+      "latitude": 35.3750329,
+      "longitude": 127.1419702
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 239,
+    "fields": {
+      "name": "남원시",
+      "doe": 16,
+      "pcbang_count": 14,
+      "latitude": 35.4156936,
+      "longitude": 127.4014476
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 240,
+    "fields": {
+      "name": "고창군",
+      "doe": 16,
+      "pcbang_count": 5,
+      "latitude": 35.4351963,
+      "longitude": 126.6971939
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 241,
+    "fields": {
+      "name": "김제시",
+      "doe": 16,
+      "pcbang_count": 12,
+      "latitude": 35.8015808,
+      "longitude": 126.8930388
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 242,
+    "fields": {
+      "name": "완주군",
+      "doe": 16,
+      "pcbang_count": 14,
+      "latitude": 35.9161426,
+      "longitude": 127.0922329
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 243,
+    "fields": {
+      "name": "부안군",
+      "doe": 16,
+      "pcbang_count": 7,
+      "latitude": 35.6968531,
+      "longitude": 126.6605015
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 244,
+    "fields": {
+      "name": "전주시 완산구",
+      "doe": 16,
+      "pcbang_count": 97,
+      "latitude": 35.812188,
+      "longitude": 127.1188665
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 245,
+    "fields": {
+      "name": "전주시 덕진구",
+      "doe": 16,
+      "pcbang_count": 95,
+      "latitude": 35.8455006,
+      "longitude": 127.1371872
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 246,
+    "fields": {
+      "name": "진안군",
+      "doe": 16,
+      "pcbang_count": 2,
+      "latitude": 35.7916802,
+      "longitude": 127.4281921
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 247,
+    "fields": {
+      "name": "익산시",
+      "doe": 16,
+      "pcbang_count": 77,
+      "latitude": 35.9578774,
+      "longitude": 126.9643172
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 248,
+    "fields": {
+      "name": "장수군",
+      "doe": 16,
+      "pcbang_count": 3,
+      "latitude": 35.6753976,
+      "longitude": 127.5401165
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 249,
+    "fields": {
+      "name": "임실군",
+      "doe": 16,
+      "pcbang_count": 3,
+      "latitude": 35.6130913,
+      "longitude": 127.2837652
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 250,
+    "fields": {
+      "name": "군산시",
+      "doe": 16,
+      "pcbang_count": 76,
+      "latitude": 35.9656756,
+      "longitude": 126.7072534
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 251,
+    "fields": {
+      "name": "무주군",
+      "doe": 16,
+      "pcbang_count": 2,
+      "latitude": 36.0076625,
+      "longitude": 127.6623639
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 252,
+    "fields": {
+      "name": "제주시",
+      "doe": 17,
+      "pcbang_count": 125,
+      "latitude": 33.4925533,
+      "longitude": 126.5077658
+    }
+  },
+  {
+    "model": "pc.si",
+    "pk": 253,
+    "fields": {
+      "name": "서귀포시",
+      "doe": 17,
+      "pcbang_count": 33,
+      "latitude": 33.2653555,
+      "longitude": 126.5525594
+    }
   }
 ]

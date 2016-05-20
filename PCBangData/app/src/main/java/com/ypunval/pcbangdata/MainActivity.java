@@ -41,7 +41,7 @@ import io.realm.RealmResults;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String  TAG = "MAINACTIVITY";
+    private static final String TAG = "MainActivity";
 
     Realm realm;
     @Override
@@ -65,8 +65,10 @@ public class MainActivity extends AppCompatActivity {
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_does.json"));
 
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
             String nickname = item.getString("nickname");
 
@@ -85,16 +87,23 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_sis.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
 //            int pcBangCount = item.getInt("pcbang_count");
+            float latitude = (float)item.getDouble("latitude");
+            float longitude = (float)item.getDouble("longitude");
+
             int doe_id = item.getInt("doe");
             Doe doe = realm.where(Doe.class).equalTo("id", doe_id).findFirst();
 
             Si si = realm.createObject(Si.class);
             si.setName(name);
             si.setId(id);
+            si.setLatitude(latitude);
+            si.setLongitude(longitude);
             si.setDoe(doe);
 //            si.setPcBangCount(pcBangCount);
         }
@@ -108,9 +117,13 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_dongs.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
+            float latitude = (float)item.getDouble("latitude");
+            float longitude = (float)item.getDouble("longitude");
             int doe_id = item.getInt("doe");
             int si_id = item.getInt("si");
             Si si = realm.where(Si.class).equalTo("id", si_id).findFirst();
@@ -121,6 +134,8 @@ public class MainActivity extends AppCompatActivity {
             dong.setId(id);
             dong.setDoe(doe);
             dong.setSi(si);
+            dong.setLatitude(latitude);
+            dong.setLongitude(longitude);
         }
         realm.commitTransaction();
         Log.i("dong", "end");
@@ -133,10 +148,12 @@ public class MainActivity extends AppCompatActivity {
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_regions.json"));
 
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
-            String name = item.getString("name");
-            String code = item.getString("code");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("id");
+//            JSONObject item = jsonObject.getJSONObject("fields");
+
+            String name = jsonObject.getString("name");
+            String code = jsonObject.getString("code");
 
             Region region = realm.createObject(Region.class);
             region.setName(name);
@@ -154,11 +171,13 @@ public class MainActivity extends AppCompatActivity {
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_lines.json"));
 
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
-            String line_num = item.getString("line_num");
-            int region_id = item.getInt("region");
-            String name = item.getString("name");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("id");
+//            JSONObject item = jsonObject.getJSONObject("fields");
+
+            String line_num = jsonObject.getString("line_num");
+            int region_id = jsonObject.getInt("region");
+            String name = jsonObject.getString("name");
 
             Region region = realm.where(Region.class).equalTo("id", region_id).findFirst();
 
@@ -179,8 +198,10 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_subways.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
             String line = item.getString("line");
             String region = item.getString("region");
@@ -196,7 +217,7 @@ public class MainActivity extends AppCompatActivity {
             subway.setLine(line);
             subway.setRegion(region);
 //            subway.setPcBangCount(pcbang_count);
-            subway.setLattitude(latitude);
+            subway.setLatitude(latitude);
             subway.setLongitude(longitude);
         }
         realm.commitTransaction();
@@ -209,8 +230,10 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_categories.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
 
             Category category = realm.createObject(Category.class);
@@ -227,8 +250,10 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_conveniences.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
             int order = item.getInt("order");
             int category_id = item.getInt("category");
@@ -254,8 +279,10 @@ public class MainActivity extends AppCompatActivity {
         realm.beginTransaction();
         JSONArray reader = new JSONArray(loadJSONFromAsset("json_pcbangs.json"));
         for (int i = 0; i < reader.length(); i++) {
-            JSONObject item = reader.getJSONObject(i);
-            int id = item.getInt("id");
+            JSONObject jsonObject = reader.getJSONObject(i);
+            int id = jsonObject.getInt("pk");
+            JSONObject item = jsonObject.getJSONObject("fields");
+
             String name = item.getString("name");
             String phone_number = item.getString("phone_number");
             String computer = item.getString("computer");
@@ -375,13 +402,16 @@ public class MainActivity extends AppCompatActivity {
         JSONObject item = new JSONObject(loadJSONFromAsset("json_updatelog.json"));
 
         int period = item.getInt("period");
-        String updated_st = item.getString("updated");
+        String updated = item.getString("last_updated");
+        String s3 = item.getString("s3_url");
 
-        Sync sync = realm.createObject(Sync.class);
+        Sync sync = new Sync();
         sync.setId(1);
         sync.setPeriod(period);
-        sync.setUpdated(updated_st);
+        sync.setS3(s3);
+        sync.setUpdated(updated);
         sync.setLastRequsetTime(System.currentTimeMillis());
+        realm.copyToRealmOrUpdate(sync);
         Log.i("sync", "end");
         realm.commitTransaction();
     }
