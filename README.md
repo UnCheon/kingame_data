@@ -2,6 +2,11 @@
 
 Realm Data Helper 
 
+If you want to change your database to Realm, use this project.
+Realm Data Helper is making realm file from json.
+You just add The realm file to your project.
+
+
 MySQL to Realm
 
 
